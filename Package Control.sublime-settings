@@ -1,0 +1,9 @@
+{
+	"auto_upgrade_last_run": 1351804070,
+	"installed_packages":
+	[
+		"LESS",
+		"Package Control",
+		"SublimeLinter"
+	]
+}

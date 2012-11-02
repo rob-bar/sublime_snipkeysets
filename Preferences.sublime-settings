@@ -1,0 +1,7 @@
+// Settings in here override those in "Default/Preferences.sublime-settings", and
+// are overridden in turn by file type specific settings.
+{
+	"draw_white_space": "selection",
+	"tab_size": 2,
+	"trim_trailing_white_space_on_save": true
+}
