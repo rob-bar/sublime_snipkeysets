@@ -3,7 +3,9 @@
 	"installed_packages":
 	[
 		"LESS",
+		"Markdown Preview",
 		"Package Control",
+		"SideBarEnhancements",
 		"SublimeLinter"
 	]
 }
