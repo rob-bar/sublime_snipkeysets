@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+	<![CDATA[
+console.log("${1:str}");
+		]]>
+	</content>
+    <tabTrigger>jsd</tabTrigger>
+    <!-- <scope></scope> -->
+    <!-- <description>Snippet that outputs a string via the Console class in the browser console.</description> -->
+</snippet>

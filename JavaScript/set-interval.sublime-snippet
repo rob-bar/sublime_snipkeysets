@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+	<![CDATA[
+setInterval(${1:callBack},${2:1000});
+		]]>
+	</content>
+    <tabTrigger>js</tabTrigger>
+    <!-- <scope></scope> -->
+    <!-- <description>Snippet that genereates a set Interval statement with a callback that is executed every 1000 milliseconds default.</description> -->
+</snippet>

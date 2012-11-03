@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+	<![CDATA[
+console.log("${1:val} => "+$1);
+		]]>
+	</content>
+    <tabTrigger>jsd</tabTrigger>
+    <!-- <scope></scope> -->
+    <!-- <description>Snippet that ouputs a value via the Console Class in the browser console.</description> -->
+</snippet>

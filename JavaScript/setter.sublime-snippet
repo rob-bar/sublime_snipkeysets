@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+	<![CDATA[
+(${1:prop} === undefined)? this.$1 = ${2:0} : this.$1 = $1;
+		]]>
+	</content>
+    <tabTrigger>js</tabTrigger>
+    <!-- <scope></scope> -->
+    <!-- <description>Snippet that generates a setter statement</description> -->
+</snippet>
