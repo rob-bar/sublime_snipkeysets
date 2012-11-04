@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+	<![CDATA[
+Arr::remove_prefixed(${1:array}, ${2:prefix})]]>
+	</content>
+	<tabTrigger>farr</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The remove_prefixed method removed values from an array if they match a given prefix.</description> -->
+</snippet>

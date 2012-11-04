@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+	<![CDATA[
+Arr::filter_keys(${1:array}, ${2:keys}, ${3:remove})]]>
+	</content>
+	<tabTrigger>farr</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The filter_keys method filters a given array to a set of keys. It returns an array that contains only the items whose keys are in the $keys array. Can also remove the specified $keys from an array.</description> -->
+</snippet>

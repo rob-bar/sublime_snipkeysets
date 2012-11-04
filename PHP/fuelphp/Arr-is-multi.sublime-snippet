@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+	<![CDATA[
+Arr::is_multi(${1:arr}, ${2:all_keys})]]>
+	</content>
+	<tabTrigger>farr</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The is_multi method checks if the array passed is multi-dimensional array or not.</description> -->
+</snippet>

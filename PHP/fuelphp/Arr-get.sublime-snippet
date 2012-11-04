@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+	<![CDATA[
+Arr::get(${1:array}, ${2:key}, ${3:default})]]>
+	</content>
+	<tabTrigger>farr</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The get method returns the element of the given array using dot-notation, or a default if it is not set.</description> -->
+</snippet>

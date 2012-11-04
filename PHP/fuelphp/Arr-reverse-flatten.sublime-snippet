@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+	<![CDATA[
+Arr::reverse_flatten(${1:array}, ${2:glue})]]>
+	</content>
+	<tabTrigger>farr</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The reverse_flatten method unflattens a flattened multi-dimensional array (both associative and indexed) into its original form.</description> -->
+</snippet>

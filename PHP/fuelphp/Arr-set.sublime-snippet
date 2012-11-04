@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+	<![CDATA[
+Arr::set(${1:array}, ${2:key}, ${3:value})]]>
+	</content>
+	<tabTrigger>farr</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The set method sets the element of the given array using dot-notation.</description> -->
+</snippet>
