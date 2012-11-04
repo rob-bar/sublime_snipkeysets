@@ -1,0 +1,14 @@
+<snippet>
+	<content>
+	<![CDATA[
+for (var ${1:parram} in ${2:object}) {
+	if ($2.hasOwnProperty($1)) {
+		$4;
+	}
+}]]>
+	</content>
+    <tabTrigger>jsl</tabTrigger>
+    <!-- <scope></scope> -->
+    <!-- <description>Snippet that generates a for loop thats runs trough an object
+</description> -->
+</snippet>

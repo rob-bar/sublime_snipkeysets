@@ -1,0 +1,12 @@
+<snippet>
+	<content>
+	<![CDATA[
+var ${1:i};
+while ($1 $2) {
+	$3;
+}]]>
+	</content>
+    <tabTrigger>jsl</tabTrigger>
+    <!-- <scope></scope> -->
+    <!-- <description>Snippet that generates a general while loop</description> -->
+</snippet>

@@ -1,8 +1,7 @@
 <snippet>
 	<content>
 	<![CDATA[
-setInterval(${1:callBack},${2:1000});
-		]]>
+setInterval(${1:callBack},${2:1000});]]>
 	</content>
     <tabTrigger>js</tabTrigger>
     <!-- <scope></scope> -->

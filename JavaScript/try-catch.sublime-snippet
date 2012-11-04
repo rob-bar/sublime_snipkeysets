@@ -1,0 +1,13 @@
+<snippet>
+	<content>
+	<![CDATA[
+try {
+    $1
+} catch (${2:exception}) {
+    $3
+}]]>
+	</content>
+    <tabTrigger>jsd</tabTrigger>
+    <!-- <scope></scope> -->
+    <!-- <description>Snippet that catches an exception.</description> -->
+</snippet>

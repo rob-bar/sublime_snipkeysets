@@ -3,8 +3,7 @@
 	<![CDATA[
 ${1:Classname}.prototype.${2:functionName} = function(${3:parrams}){
 	$4;
-}
-		]]>
+}]]>
 	</content>
     <tabTrigger>js</tabTrigger>
     <!-- <scope></scope> -->

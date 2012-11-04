@@ -1,0 +1,12 @@
+<snippet>
+	<content>
+	<![CDATA[
+if (${1:expr}) {
+	$2;
+}]]>
+	</content>
+    <tabTrigger>jse</tabTrigger>
+    <!-- <scope></scope> -->
+    <!-- <description>Snippet that generates an if case
+</description> -->
+</snippet>

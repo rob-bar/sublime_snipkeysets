@@ -1,8 +1,6 @@
 <snippet>
 	<content>
-	<![CDATA[
-clearInterval(${1:intervalId});
-		]]>
+	<![CDATA[clearInterval(${1:intervalId});]]>
 	</content>
     <tabTrigger>js</tabTrigger>
     <!-- <scope></scope> -->

@@ -1,0 +1,15 @@
+<snippet>
+	<content>
+	<![CDATA[
+if (${1:expr}) {
+	$3;
+} else if(${2:expr2}) {
+	$4;
+} else {
+	$5;
+}]]>
+	</content>
+    <tabTrigger>jse</tabTrigger>
+    <!-- <scope></scope> -->
+    <!-- <description>Snippet that genrates a regular if elseif else case</description> -->
+</snippet>

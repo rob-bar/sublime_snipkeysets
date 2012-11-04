@@ -3,8 +3,7 @@
 	<![CDATA[
 var ${1:img} = new Image();
 $1.addEventListener("load", ${3:evtfunc}, false);
-$1.src = "${2:source}";
-		]]>
+$1.src = "${2:source}";]]>
 	</content>
     <tabTrigger>js</tabTrigger>
     <!-- <scope></scope> -->

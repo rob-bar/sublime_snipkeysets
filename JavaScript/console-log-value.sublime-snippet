@@ -1,8 +1,6 @@
 <snippet>
 	<content>
-	<![CDATA[
-console.log("${1:val} => "+$1);
-		]]>
+	<![CDATA[console.log("${1:val} => "+$1);]]>
 	</content>
     <tabTrigger>jsd</tabTrigger>
     <!-- <scope></scope> -->
