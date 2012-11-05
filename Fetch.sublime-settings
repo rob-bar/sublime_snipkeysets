@@ -4,7 +4,6 @@
 		"jquery": "http://code.jquery.com/jquery.min.js",
 		"jquery-preload": "https://raw.github.com/rob-bar/preload/master/loader.jquery.js",
 		"js-validator": "https://raw.github.com/rob-bar/Validator/master/validator.min.js"
-
 	},
 	"packages":
 	{
