@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+	<![CDATA[
+Agent::accepts_language(${1:language})]]>
+	</content>
+	<tabTrigger>fage</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => Check if the current browser accepts a specific ISO language code.</description> -->
+</snippet>

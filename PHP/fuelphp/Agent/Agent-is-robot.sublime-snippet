@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+	<![CDATA[
+Agent::is_robot()]]>
+	</content>
+	<tabTrigger>fage</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => Checks if the browser agent indicates the visitor is a robot or crawler.</description> -->
+</snippet>

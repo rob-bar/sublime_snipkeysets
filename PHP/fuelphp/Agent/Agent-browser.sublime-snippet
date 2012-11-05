@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+	<![CDATA[
+Agent::browser()]]>
+	</content>
+	<tabTrigger>fage</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => Returns the normalized browser name from the user agent string.</description> -->
+</snippet>

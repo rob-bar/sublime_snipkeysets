@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+	<![CDATA[
+Agent::properties()]]>
+	</content>
+	<tabTrigger>fage</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => Returns an array with all properties of the detected browser.</description> -->
+</snippet>

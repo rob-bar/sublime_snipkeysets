@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+	<![CDATA[
+Agent::charsets()]]>
+	</content>
+	<tabTrigger>fage</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => Returns an array with all charactersets accepted by the browser.</description> -->
+</snippet>
