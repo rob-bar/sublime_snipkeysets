@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+	<![CDATA[
+Arr::insert_after_value(${1:original}, ${2:value}, ${3:search})]]>
+	</content>
+	<tabTrigger>farr</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The insert_after_value method adds an element to an array after the value specified
+WARNING: The original array is edited by reference, only boolean success is returned</description> -->
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+	<content>
+	<![CDATA[
+.${1:mixname}(${2:parrams}) {
+	$3;
+}]]>
+	</content>
+    <tabTrigger>ls</tabTrigger>
+    <!-- <scope></scope> -->
+    <!-- <description>Snippet that sets a mixing in less</description> -->
+</snippet>

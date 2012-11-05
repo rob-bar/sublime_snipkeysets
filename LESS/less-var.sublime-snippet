@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[@${1:name}: ${2:value};]]>
+	</content>
+    <tabTrigger>ls</tabTrigger>
+    <!-- <scope></scope> -->
+    <!-- <description>Snippet that sets a variable in less</description> -->
+</snippet>

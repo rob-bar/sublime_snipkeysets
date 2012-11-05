@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+	<![CDATA[@media ${1:device} and ($(2:contitions)) {
+	.${3:lessclassorothercss};
+}]]>
+	</content>
+    <tabTrigger>css</tabTrigger>
+    <!-- <scope></scope> -->
+    <!-- <description>Snippet that generates a media query</description> -->
+</snippet>

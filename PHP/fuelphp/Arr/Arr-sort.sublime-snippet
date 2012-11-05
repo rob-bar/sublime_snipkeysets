@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+	<![CDATA[
+Arr::sort(${1:array}, ${2:key}, ${3:order}, ${4:sort_flags})]]>
+	</content>
+	<tabTrigger>farr</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The sort method sorts a multi-dimensional array by its values.</description> -->
+</snippet>

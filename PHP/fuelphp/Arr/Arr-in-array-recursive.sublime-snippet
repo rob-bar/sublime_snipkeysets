@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+	<![CDATA[
+Arr::in_array_recursive(${1:needle}, ${2:haystack}, ${3:strict})]]>
+	</content>
+	<tabTrigger>farr</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The in_array_recursive method checks wether a value is in an array recursively.</description> -->
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+	<![CDATA[
+Arr::pluck(${1:array}, ${2:key}, ${3:index})]]>
+	</content>
+	<tabTrigger>farr</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The pluck method plucks values from a collection of arrays or objects.</description> -->
+</snippet>

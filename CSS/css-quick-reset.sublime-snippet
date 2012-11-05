@@ -1,0 +1,32 @@
+<snippet>
+	<content>
+	<![CDATA[p,form,img,h1,h2,h3,h4,h5,h6,ul,ol,li,html,body,input,button,textarea {
+margin: 0;
+padding: 0;
+}
+.hide {
+left: -10000px;
+position: absolute;
+}
+a,input,textarea,button {
+outline: none;
+}
+a img {
+border: none;
+}
+html {
+height: 100%;
+}
+body {
+background-color: #000000;
+font-family: Arial,Helvetica,sans-serif;
+height: 100%;
+}
+cufon {
+text-indent: 0!important;
+}]]>
+	</content>
+    <tabTrigger>css</tabTrigger>
+    <!-- <scope></scope> -->
+    <!-- <description>Snippet that generates quick boiler code</description> -->
+</snippet>

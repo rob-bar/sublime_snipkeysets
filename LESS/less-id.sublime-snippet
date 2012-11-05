@@ -1,0 +1,11 @@
+<snippet>
+	<content>
+	<![CDATA[
+#${1:id} {
+	$2
+}]]>
+	</content>
+    <tabTrigger>ls</tabTrigger>
+    <!-- <scope></scope> -->
+    <!-- <description>Snippet that generates a less id</description> -->
+</snippet>

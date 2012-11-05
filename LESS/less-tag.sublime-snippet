@@ -1,0 +1,11 @@
+<snippet>
+	<content>
+	<![CDATA[
+${1:tagname} {
+	$2
+}]]>
+	</content>
+    <tabTrigger>ls</tabTrigger>
+    <!-- <scope></scope> -->
+    <!-- <description>Snippet that generates a less tag</description> -->
+</snippet>

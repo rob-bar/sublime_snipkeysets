@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+	<![CDATA[
+Arr::insert(${1:original}, ${2:value}, ${3:pos})]]>
+	</content>
+	<tabTrigger>farr</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The insert method is mainly an array_splice alias with added error checking
+WARNING: The original array is edited by reference, only boolean success is returned</description> -->
+</snippet>
