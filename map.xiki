@@ -4,7 +4,33 @@
   + JavaScript/
   + LESS/
   + Markdown/
-  + PHP/
+  - PHP/
+    - fuelphp/
+      + Agent/
+      + Arr/
+      - Asset/
+        Asset-add-path.sublime-snippet
+        Asset-css.sublime-snippet
+        Asset-find-file.sublime-snippet
+        Asset-forge.sublime-snippet
+        Asset-get-file.sublime-snippet
+        Asset-img.sublime-snippet
+        Asset-instance.sublime-snippet
+        Asset-js.sublime-snippet
+        Asset-remove-path.sublime-snippet
+        Asset-render.sublime-snippet
+
+      - Autoloader/
+
+
+      .DS_Store
+      .gitkeep
+
+    .DS_Store
+    for-loop.sublime-snippet
+    php-shorthand-echo.sublime-snippet
+    php-tag.sublime-snippet
+
   .DS_Store
   .gitignore
   Default (Linux).sublime-keymap

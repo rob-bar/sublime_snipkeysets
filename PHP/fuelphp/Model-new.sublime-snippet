@@ -1,0 +1,29 @@
+<snippet>
+	<content>
+	<![CDATA[class ${1:package_classname} extends \Orm\Model {
+
+	//PROPERTIES
+	protected static \$_properties = array(
+		${2:properties}
+	);
+
+	//RELATIONS
+	protected static \$${3:rel_type} = array(${4:relations});
+
+	//OBSERVERS
+	protected static \$_observers = array(
+		${5:observers}
+	);
+
+	//VALIDATION
+	public static function validate(\$factory) {
+		\$val = Validation::forge(\$factory);
+		${6:validation_rules}
+		return \$val;
+	}
+}]]>
+	</content>
+	<tabTrigger>fmodel</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => To generate a new model from scratch.</description> -->
+</snippet>
