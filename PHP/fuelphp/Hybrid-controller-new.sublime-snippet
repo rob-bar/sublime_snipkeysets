@@ -1,0 +1,14 @@
+<snippet>
+	<content>
+	<![CDATA[class ${1:package_classname} extends Controller_Hybrid {
+
+	//CALLS
+	public function ${2:func_call}() {
+		$3
+	}
+}]]>
+	</content>
+	<tabTrigger>fhcontroller</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => To generate a new hybrid controller from scratch.</description> -->
+</snippet>

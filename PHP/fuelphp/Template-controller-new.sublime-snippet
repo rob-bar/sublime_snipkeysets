@@ -1,0 +1,14 @@
+<snippet>
+	<content>
+	<![CDATA[class ${1:package_classname} extends Controller_Template {
+	public \$template = '${2:template}';
+	//CALLS
+	public function ${3:func_call}() {
+		$4
+	}
+}]]>
+	</content>
+	<tabTrigger>ftcontroller</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => To generate a new template controller from scratch.</description> -->
+</snippet>

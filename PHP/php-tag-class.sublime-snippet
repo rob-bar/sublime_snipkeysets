@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+	<![CDATA[<?php
+$1
+?>]]>
+	</content>
+	<tabTrigger>??</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Php tag with space to start coding.</description> -->
+</snippet>
