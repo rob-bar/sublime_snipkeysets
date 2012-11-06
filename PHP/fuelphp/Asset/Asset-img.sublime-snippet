@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+	<![CDATA[
+Asset::img(${1:images}, ${2:attr}, ${3:group})]]>
+	</content>
+	<tabTrigger>fass</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The img method either adds the image to a named group, the default group, or returns the image tag.</description> -->
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+	<![CDATA[
+Asset::forge(${1:config})]]>
+	</content>
+	<tabTrigger>fass</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The forge method allows you to manually instantiate an asset instance. </description> -->
+</snippet>

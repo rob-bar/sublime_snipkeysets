@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+	<![CDATA[
+Autoloader::load(${1:class})]]>
+	</content>
+	<tabTrigger>fauto</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet =>  The load method tries to find the class, load it, and fire its _init function if exists. </description> -->
+</snippet>

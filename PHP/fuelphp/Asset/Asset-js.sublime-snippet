@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+	<![CDATA[
+Asset::js(${1:scripts}, ${2:attr}, ${3:group}, ${4:raw})]]>
+	</content>
+	<tabTrigger>fass</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The js method either adds the javascript to a named group, the default group, or returns the script tag.</description> -->
+</snippet>

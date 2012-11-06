@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+	<![CDATA[
+Asset::get_file(${1:file}, ${2:type}, ${3:folder})]]>
+	</content>
+	<tabTrigger>fass</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The get_file method allows you to get the URL to an asset file.</description> -->
+</snippet>

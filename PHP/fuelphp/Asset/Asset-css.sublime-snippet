@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+	<![CDATA[
+Asset::css(${1:stylesheets}, ${2:attr}, ${3:group}, ${4:raw})]]>
+	</content>
+	<tabTrigger>fass</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The css method adds css to a named group, the default group, or returns the css tag.</description> -->
+</snippet>

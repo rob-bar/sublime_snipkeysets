@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+	<![CDATA[
+Autoloader::add_core_namespace(${1:namespace}, ${2:prefix})]]>
+	</content>
+	<tabTrigger>fauto</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet =>  The add_core_namespace method adds a namespace for which classes may be used without the namespace prefix and will be auto-aliased to the global namespace. Prefixing the classes will overwrite core classes and previously added namespaces. </description> -->
+</snippet>

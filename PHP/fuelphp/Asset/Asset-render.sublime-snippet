@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+	<![CDATA[
+Asset::render(${1:group}, ${2:raw})]]>
+	</content>
+	<tabTrigger>fass</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet =>  The render renders the group of assets and returns the tags. If no group is specified, the default group will be rendered. </description> -->
+</snippet>
