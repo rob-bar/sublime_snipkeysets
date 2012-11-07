@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[Config::load(${1:file}, ${2:group}, ${3:reload}, ${4:overwrite})]]>
+	</content>
+	<tabTrigger>fcon</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The load method reads in a config file into the system. It searches through the config directories for the requested file. You can optionally group the config files to avoid naming collisions.</description> -->
+</snippet>

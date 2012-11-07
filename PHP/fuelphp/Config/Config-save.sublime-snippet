@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[Config::save(${1:file}, ${2:config})]]>
+	</content>
+	<tabTrigger>fcon</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The save method saves a config file into the system. It searches through the config directories for the requested file. If no existing file is found, the config file is created in the APPPATH config directory.</description> -->
+</snippet>

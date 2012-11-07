@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+	<![CDATA[
+\Cli::error(${1:text})]]>
+	</content>
+	<tabTrigger>fcli</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The error method will write a line of text to the command line as an error (similar to write but uses STDERR instead of STDOUT.</description> -->
+</snippet>

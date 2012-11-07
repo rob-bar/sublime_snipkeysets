@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+	<![CDATA[
+\Cli::beep(${1:num})]]>
+	</content>
+	<tabTrigger>fcli</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The beep method fires a system beep on the computer running the command.</description> -->
+</snippet>

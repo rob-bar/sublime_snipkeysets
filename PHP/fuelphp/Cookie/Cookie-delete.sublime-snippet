@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[Cookie::delete(${1:name}, ${2:path}, ${3:domain}, ${4:secure}, ${5:httponly})]]>
+	</content>
+	<tabTrigger>fcoo</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The delete method deletes a parameter from the $_COOKIE array.</description> -->
+</snippet>

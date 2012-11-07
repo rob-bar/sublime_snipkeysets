@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[Config::get(${1:item}, ${2:default})]]>
+	</content>
+	<tabTrigger>fcon</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The get method returns the desired config item. If the item does not exist then $default is returned. If the item you are retrieving is a group, then the entire group is returned.</description> -->
+</snippet>
