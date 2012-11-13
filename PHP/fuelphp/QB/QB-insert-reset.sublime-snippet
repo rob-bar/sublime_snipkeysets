@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[->reset()]]>
+	</content>
+	<tabTrigger>-></tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The reset method resets all values of the current instance.</description> -->
+</snippet>

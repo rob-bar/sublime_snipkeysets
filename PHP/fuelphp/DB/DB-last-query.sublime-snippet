@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[DB::last_query()]]>
+	</content>
+	<tabTrigger>fddb</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The last_query method returns the last executed SQL query.</description> -->
+</snippet>

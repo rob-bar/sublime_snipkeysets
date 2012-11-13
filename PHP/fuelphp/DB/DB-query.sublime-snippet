@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[DB::query(${1:query})]]>
+	</content>
+	<tabTrigger>fddb</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The query method returns a new Database_Query object.</description> -->
+</snippet>

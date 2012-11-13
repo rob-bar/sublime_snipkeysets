@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[DB::datatype(${1:type}, ${2:db})]]>
+	</content>
+	<tabTrigger>fddb</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The datatype method returns a normalized array describing the SQL data type.</description> -->
+</snippet>

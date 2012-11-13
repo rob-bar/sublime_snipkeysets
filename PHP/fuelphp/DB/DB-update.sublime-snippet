@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[DB::update(${1:table})]]>
+	</content>
+	<tabTrigger>fddb</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The update method returns a new Database_Query_Builder_Update object.</description> -->
+</snippet>

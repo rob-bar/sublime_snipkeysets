@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[DB::delete(${1:table})]]>
+	</content>
+	<tabTrigger>fddb</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The delete method returns a new Database_Query_Builder_Delete object.</description> -->
+</snippet>

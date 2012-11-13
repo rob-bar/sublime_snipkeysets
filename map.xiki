@@ -8,27 +8,31 @@
     - fuelphp/
       + Agent/
       + Arr/
-      - Asset/
-        Asset-add-path.sublime-snippet
-        Asset-css.sublime-snippet
-        Asset-find-file.sublime-snippet
-        Asset-forge.sublime-snippet
-        Asset-get-file.sublime-snippet
-        Asset-img.sublime-snippet
-        Asset-instance.sublime-snippet
-        Asset-js.sublime-snippet
-        Asset-remove-path.sublime-snippet
-        Asset-render.sublime-snippet
-
-      - Autoloader/
-
+      + Asset/
+      + Autoloader/
+      + Cache/
+      + Cli/
+      + Config/
+      + Cookie/
+      + Crypt/
+      - DB/
+        .DS_Store
+        DB-last-query.sublime-snippet
+        DB-query.sublime-snippet
 
       .DS_Store
       .gitkeep
+      Controller-new.sublime-snippet
+      Hybrid-controller-new.sublime-snippet
+      Migration-new.sublime-snippet
+      Model-new.sublime-snippet
+      Rest-controller-new.sublime-snippet
+      Template-controller-new.sublime-snippet
 
     .DS_Store
     for-loop.sublime-snippet
     php-shorthand-echo.sublime-snippet
+    php-tag-class.sublime-snippet
     php-tag.sublime-snippet
 
   .DS_Store
@@ -38,6 +42,7 @@
   Default (Windows).sublime-keymap
   empty.sublime-snippet
   Fetch.sublime-settings
+  map.xiki
   Package Control.sublime-settings
   Preferences.sublime-settings
   README.md

@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[DB::insert(${1:table}, ${2:columns})]]>
+	</content>
+	<tabTrigger>fddb</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The insert method returns a new Database_Query_Builder_Insert object.</description> -->
+</snippet>

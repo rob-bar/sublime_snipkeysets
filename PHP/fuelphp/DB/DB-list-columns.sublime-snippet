@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[DB::list_columns(${1:table}, ${2:like}, ${3:db})]]>
+	</content>
+	<tabTrigger>fddb</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The list_columns method return a lists all of the columns in a table. Optionally, a LIKE string can be used to search for specific fields.</description> -->
+</snippet>

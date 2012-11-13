@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1352192296,
+	"auto_upgrade_last_run": 1352703193,
 	"installed_packages":
 	[
 		"LESS",
@@ -8,6 +8,7 @@
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeLinter",
+		"Todo",
 		"ZenCoding"
 	]
 }

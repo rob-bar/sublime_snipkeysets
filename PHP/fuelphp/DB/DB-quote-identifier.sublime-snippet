@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[DB::quote_identifier(${1:string}, ${2:db})]]>
+	</content>
+	<tabTrigger>fddb</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The quote_identifier method returns a quoted string for an SQL query.</description> -->
+</snippet>

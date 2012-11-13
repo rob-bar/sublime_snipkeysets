@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[DB::count_last_query(${1:db})]]>
+	</content>
+	<tabTrigger>fddb</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The count_last_query method returns the number of records in the last query, without LIMIT or OFFSET applied.</description> -->
+</snippet>
