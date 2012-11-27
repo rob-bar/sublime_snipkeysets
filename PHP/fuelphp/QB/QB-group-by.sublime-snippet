@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[->group_by(${2:columns})]]>
+	</content>
+	<tabTrigger>-></tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The group_by method creates a "GROUP BY ..." filter.</description> -->
+</snippet>
