@@ -1,7 +1,8 @@
 {
-	"auto_upgrade_last_run": 1352703193,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"LESS",
 		"Markdown Preview",
 		"Nettuts+ Fetch",
