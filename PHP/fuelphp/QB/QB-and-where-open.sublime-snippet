@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[->and_where_open()]]>
 	</content>
-	<tabTrigger>-></tabTrigger>
+	<tabTrigger>->a</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => The and_where_open method opens an SQL closure and appends it using AND.</description> -->
 </snippet>

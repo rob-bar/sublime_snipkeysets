@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[->execute()]]>
+	</content>
+	<tabTrigger>->e</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => Executes the query</description> -->
+</snippet>

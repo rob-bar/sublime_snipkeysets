@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[->values(${1:values})]]>
 	</content>
-	<tabTrigger>-></tabTrigger>
+	<tabTrigger>->v</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => The values method appends the values to insert.</description> -->
 </snippet>

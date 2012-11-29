@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[->set(${1:pairs})]]>
-	</content>
-	<tabTrigger>-></tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The set method sets the columns and appends the values to insert.</description> -->
-</snippet>

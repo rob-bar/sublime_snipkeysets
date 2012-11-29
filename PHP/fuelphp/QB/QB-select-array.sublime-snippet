@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[->select_array(${1:columns})]]>
 	</content>
-	<tabTrigger>-></tabTrigger>
+	<tabTrigger>->s</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => The select_array method appends columns to select.</description> -->
 </snippet>

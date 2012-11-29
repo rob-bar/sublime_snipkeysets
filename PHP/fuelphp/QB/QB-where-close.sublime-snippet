@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[->where_close()]]>
 	</content>
-	<tabTrigger>-></tabTrigger>
+	<tabTrigger>->w</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => The where_close method is an alias for and_where_close.</description> -->
 </snippet>

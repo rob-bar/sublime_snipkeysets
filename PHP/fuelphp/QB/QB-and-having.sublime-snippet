@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[->and_having(${1:column}, ${2:op}, ${3:value})]]>
 	</content>
-	<tabTrigger>-></tabTrigger>
+	<tabTrigger>->a</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => The and_having method appends a "AND HAVING" statement.</description> -->
 </snippet>

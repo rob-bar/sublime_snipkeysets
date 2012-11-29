@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[->as_array()]]>
+	</content>
+	<tabTrigger>->a</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => Getting results as array</description> -->
+</snippet>

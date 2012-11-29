@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[->values(${1:values})]]>
-	</content>
-	<tabTrigger>-></tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The values method appends the values to insert.</description> -->
-</snippet>

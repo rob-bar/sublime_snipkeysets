@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[->where_open()]]>
 	</content>
-	<tabTrigger>-></tabTrigger>
+	<tabTrigger>->w</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => The where_open method is an alias for and_where_open.</description> -->
 </snippet>

@@ -40,7 +40,7 @@
 		}
 	},
 	{
-		"keys": ["super+alt+ctrl+up"],
+		"keys": ["super+alt+ctrl+space"],
 		"command": "set_layout",
 		"args":
 		{

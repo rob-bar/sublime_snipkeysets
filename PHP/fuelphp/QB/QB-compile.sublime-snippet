@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[->compile(${1:dbconnection})]]>
 	</content>
-	<tabTrigger>-></tabTrigger>
+	<tabTrigger>->c</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => The limit method returns the insert SQL query as a string.</description> -->
 </snippet>
