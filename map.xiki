@@ -4,34 +4,7 @@
   + JavaScript/
   + LESS/
   + Markdown/
-  - PHP/
-    - fuelphp/
-      + Agent/
-      + Arr/
-      + Asset/
-      + Autoloader/
-      + Cache/
-      + Cli/
-      + Config/
-      + Cookie/
-      + Crypt/
-      + DB/
-      + QB/
-      .DS_Store
-      .gitkeep
-      Controller-new.sublime-snippet
-      Hybrid-controller-new.sublime-snippet
-      Migration-new.sublime-snippet
-      Model-new.sublime-snippet
-      Rest-controller-new.sublime-snippet
-      Template-controller-new.sublime-snippet
-
-    .DS_Store
-    for-loop.sublime-snippet
-    php-shorthand-echo.sublime-snippet
-    php-tag-class.sublime-snippet
-    php-tag.sublime-snippet
-
+  + PHP/
   .DS_Store
   .gitignore
   Default (Linux).sublime-keymap
@@ -40,6 +13,7 @@
   empty.sublime-snippet
   Fetch.sublime-settings
   map.xiki
+  Package Control.last-run
   Package Control.sublime-settings
   Preferences.sublime-settings
   README.md

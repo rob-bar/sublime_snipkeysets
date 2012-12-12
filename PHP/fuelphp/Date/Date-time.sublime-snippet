@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[Date::time(${1:timezone})]]>
+	</content>
+	<tabTrigger>fda</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The time method returns the current time in the given timezone as a Date object.</description> -->
+</snippet>

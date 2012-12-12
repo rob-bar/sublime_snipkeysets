@@ -1,9 +1,11 @@
 {
 	"files":
 	{
-		"jquery": "http://code.jquery.com/jquery.min.js",
+		"backbone": "https://raw.github.com/documentcloud/backbone/master/backbone-min.js",
+		"jquery": "http://code.jquery.com/jquery.js",
 		"jquery-preload": "https://raw.github.com/rob-bar/preload/master/loader.jquery.js",
-		"js-validator": "https://raw.github.com/rob-bar/Validator/master/validator.min.js"
+		"js-validator": "https://raw.github.com/rob-bar/Validator/master/validator.min.js",
+		"underscore": "https://raw.github.com/documentcloud/underscore/master/underscore-min.js"
 	},
 	"packages":
 	{

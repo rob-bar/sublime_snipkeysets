@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[->get_timezone()]]>
+	</content>
+	<tabTrigger>->d</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The get_timezone method returns the Date object's timezone</description> -->
+</snippet>

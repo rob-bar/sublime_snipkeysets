@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[Date::time_ago(${1:timestamp}, ${2:now}, ${3:period})]]>
+	</content>
+	<tabTrigger>fda</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The days_in_month returns the number of days in any given month, in the year specified</description> -->
+</snippet>
