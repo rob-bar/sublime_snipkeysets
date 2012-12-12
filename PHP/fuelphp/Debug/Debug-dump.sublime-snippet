@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[Debug::dump(${1:args})]]>
+	</content>
+	<tabTrigger>fde</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The dump method outputs multiple mixed values to the browser in a formatted structured way and includes backtrace information so you know where it is coming from.</description> -->
+</snippet>

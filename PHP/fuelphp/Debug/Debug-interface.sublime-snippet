@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[Debug::interfaces()]]>
+	</content>
+	<tabTrigger>fde</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => Output a list of all interface classes currently defined in the PHP runtime.</description> -->
+</snippet>
