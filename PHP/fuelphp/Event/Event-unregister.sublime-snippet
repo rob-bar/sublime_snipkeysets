@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[Event::unregister(${1:event}, ${2:callback})]]>
+	</content>
+	<tabTrigger>fev</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The unregister method allows files to unregister an object that would be run when the trigger method is called.</description> -->
+</snippet>

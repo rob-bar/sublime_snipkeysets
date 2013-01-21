@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+	<![CDATA[
+<input type="submit" name="${1:nameid}" value="${2:value}" id="$1" >
+]]>
+	</content>
+    <tabTrigger>submit</tabTrigger>
+    <!-- <scope></scope> -->
+    <!-- <description>Snippet that sets a html checkbox</description> -->
+</snippet>

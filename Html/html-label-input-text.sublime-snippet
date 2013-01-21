@@ -1,0 +1,11 @@
+<snippet>
+	<content>
+	<![CDATA[
+<label for="${1:nameid}">$2</label>
+<input type="text" title="${3:title}" name="$1" id="$1">
+]]>
+	</content>
+    <tabTrigger>labelinput</tabTrigger>
+    <!-- <scope></scope> -->
+    <!-- <description>Snippet that sets a html checkbox</description> -->
+</snippet>

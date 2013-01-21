@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[Fieldset::set_config(${1:config}, ${2:value})]]>
+	</content>
+	<tabTrigger>ffi</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Sets a config value on the fieldset.</description> -->
+</snippet>

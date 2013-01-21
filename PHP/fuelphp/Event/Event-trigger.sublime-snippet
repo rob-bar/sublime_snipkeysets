@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[Event::trigger(${1:event}, ${2:data}, ${3:return_type}, ${4:reversed})]]>
+	</content>
+	<tabTrigger>fev</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The trigger method is used to trigger or activate callbacks that are associated through the register method.</description> -->
+</snippet>

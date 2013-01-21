@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[Fieldset::get_config(${1:key}, ${2:default})]]>
+	</content>
+	<tabTrigger>ffi</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Get the configuration array or one or more config values by key.</description> -->
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[Fieldset::validation()]]>
+	</content>
+	<tabTrigger>ffi</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => Gets the Validation instance for the current Fieldset. Creates the Validation instance if it doesn't already exist.</description> -->
+</snippet>

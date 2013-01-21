@@ -1,0 +1,13 @@
+<snippet>
+	<content>
+	<![CDATA[
+<span class="radio">
+	<input type="radio" id="${1:idname}" name="$1" value="${2:value}">
+</span>
+<label for="$1" class="radiolabel">${3:labelvalue}</label>
+]]>
+	</content>
+    <tabTrigger>radio</tabTrigger>
+    <!-- <scope></scope> -->
+    <!-- <description>Snippet that sets a html checkbox</description> -->
+</snippet>

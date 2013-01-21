@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[Fieldset::add_after(${1:name}, ${2:label}, ${3:attributes}, ${4:rules}, ${5:fieldname})]]>
+	</content>
+	<tabTrigger>ffi</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => Creates a Fieldset_Field instance and adds it to the current Fieldset, just after an already defined field identified by $fieldname.</description> -->
+</snippet>
