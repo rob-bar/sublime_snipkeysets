@@ -3,13 +3,19 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"CoffeeScript",
+		"Gist",
 		"HTML Snippets",
 		"HTML5",
+		"Http Requester",
+		"jQuery Snippets pack",
 		"LESS",
 		"Markdown Preview",
 		"Nettuts+ Fetch",
 		"Package Control",
+		"Prefixr",
 		"Pretty JSON",
+		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"Todo"
