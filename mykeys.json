@@ -1,0 +1,40 @@
+[
+	{
+		"keys": {
+			"general" : {
+
+				//MOVING & CONTROL
+				"Mission Control": "cmd + F1",
+				"Application Windows": "cmd + F2",
+				"Show desktop": "cmd + F3",
+				"Show Dashboard": "cmd + F4",
+				"Move to left space": "ctrl + left",
+				"Move to right space": "ctrl + right",
+				"toggle Dock hidding": "cmd + alt + D",
+				"show Launchpad": "cmd + shft + space",
+				"Search with spotlight": "cmd + space",
+				"Open Divvy": "cmd + shft + return",
+				"New todo": "cmd + shft + @",
+
+				// SCREENS
+				"Save picture of screen as file": "cmd + shft + 3",
+				"Copy picture of screen as to clipboard": "cmd + shft + alt + 3",
+				"Save picture of selected area as file": "cmd + shft + 4",
+				"Copy picture of selected area as to clipboard": "cmd + shft + alt + 4",
+
+				// SERVICES
+				"Set as Desktop picture": "cmd + alt + shft + P",//Picture
+				"open URL": "cmd + alt + shft + O",//Open Url
+				"Compress": "cmd + alt + shft + G",//Gzip
+				"Open in sublime text 2": "cmd + alt + shft + S",//Sublime
+				"QuickDropShare": "cmd + alt + shft + B",//Box
+				"Search in Google": "cmd + alt + shft + L",//Lookup
+				"Upload with transmit": "cmd + alt + shft + U",//Upload
+				"New Email To Adress": "cmd + alt + shft + T",//To
+				"New Email with attachment": "cmd + alt + shft + A",//Attached
+				"New Email with selection": "cmd + alt + shft + M",//Message
+
+			}
+		}
+	}
+]
