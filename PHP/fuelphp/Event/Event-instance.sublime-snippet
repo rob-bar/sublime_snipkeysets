@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[Event::instance(${1:name}, ${2:events})]]>
 	</content>
-	<tabTrigger>fev</tabTrigger>
+	<tabTrigger>feve</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => The instance returns a new event object singleton.</description> -->
 </snippet>

@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[->and_where_close()]]>
 	</content>
-	<tabTrigger>->a</tabTrigger>
+	<tabTrigger>->and</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => The and_where_close method closes an SQL closure and appends it using AND.</description> -->
 </snippet>

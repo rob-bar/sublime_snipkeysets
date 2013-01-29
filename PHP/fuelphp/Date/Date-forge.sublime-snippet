@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[Date::forge(${1:timestamp}, ${2:timezone})]]>
 	</content>
-	<tabTrigger>fda</tabTrigger>
+	<tabTrigger>fdat</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => The forge method returns a new date object.</description> -->
 </snippet>

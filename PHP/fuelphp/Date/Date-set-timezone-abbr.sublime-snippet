@@ -1,8 +1,8 @@
 <snippet>
 	<content>
-	<![CDATA[->set_timezone(${1:timezone})]]>
+	<![CDATA[set_timezone(${1:timezone})]]>
 	</content>
-	<tabTrigger>->d</tabTrigger>
+	<tabTrigger>fdat</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => The set_timezone method sets the Date object's timezone</description> -->
 </snippet>

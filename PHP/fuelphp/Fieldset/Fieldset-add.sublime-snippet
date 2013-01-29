@@ -1,8 +1,8 @@
 <snippet>
 	<content>
-	<![CDATA[Fieldset::add(${1:name}, ${2:label}, ${3:attributes}, ${4:rules})]]>
+	<![CDATA[add(${1:name}, ${2:label}, ${3:attributes}, ${4:rules})]]>
 	</content>
-	<tabTrigger>ffi</tabTrigger>
+	<tabTrigger>ffie</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => Creates a Fieldset_Field instance and adds it to the current Fieldset.</description> -->
 </snippet>

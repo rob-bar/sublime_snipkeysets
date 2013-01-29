@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[Fieldset::forge(${1:name}, ${2:config})]]>
 	</content>
-	<tabTrigger>ffi</tabTrigger>
+	<tabTrigger>ffie</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => The forge method returns a new Fieldset instance. Note: there can only be one instance per $name.</description> -->
 </snippet>

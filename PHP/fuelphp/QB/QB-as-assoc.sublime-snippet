@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[->as_assoc()]]>
 	</content>
-	<tabTrigger>->a</tabTrigger>
+	<tabTrigger>->as</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => Getting results as assoc array</description> -->
 </snippet>

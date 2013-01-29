@@ -16,8 +16,10 @@
 		"Prefixr",
 		"Pretty JSON",
 		"Sass",
+		"Search Stack Overflow",
 		"SideBarEnhancements",
 		"SublimeLinter",
-		"Todo"
+		"Todo",
+		"Xdebug"
 	]
 }

@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[->group_by(${2:columns})]]>
 	</content>
-	<tabTrigger>->g</tabTrigger>
+	<tabTrigger>->gro</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => The group_by method creates a "GROUP BY ..." filter.</description> -->
 </snippet>

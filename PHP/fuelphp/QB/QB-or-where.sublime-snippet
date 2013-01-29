@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[->or_where(${1:column}, ${2:op}, ${3:value})]]>
 	</content>
-	<tabTrigger>->o</tabTrigger>
+	<tabTrigger>->or</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => The or_where method appends a WHERE statement.</description> -->
 </snippet>

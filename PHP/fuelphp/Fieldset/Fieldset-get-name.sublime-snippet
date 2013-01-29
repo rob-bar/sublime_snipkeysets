@@ -1,6 +1,6 @@
 <snippet>
 	<content>
-	<![CDATA[get_config(${1:key}, ${2:default})]]>
+	<![CDATA[get_name()]]>
 	</content>
 	<tabTrigger>ffie</tabTrigger>
 	<!-- <scope></scope> -->

@@ -1,8 +1,8 @@
 <snippet>
 	<content>
-	<![CDATA[Fieldset::form()]]>
+	<![CDATA[form()]]>
 	</content>
-	<tabTrigger>ffi</tabTrigger>
+	<tabTrigger>ffie</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => Gets the Form instance for the current Fieldset. Creates the Form instance if it doesn't already exist</description> -->
 </snippet>

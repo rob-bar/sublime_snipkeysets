@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[->having_close()]]>
 	</content>
-	<tabTrigger>->h</tabTrigger>
+	<tabTrigger>->hav</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => The having_close method is an alias for and_having_close.</description> -->
 </snippet>

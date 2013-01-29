@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[Fieldset::instance(${1:instance})]]>
 	</content>
-	<tabTrigger>ffi</tabTrigger>
+	<tabTrigger>ffie</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => Returns a specific instance, or the default instance (is created if necessary).</description> -->
 </snippet>

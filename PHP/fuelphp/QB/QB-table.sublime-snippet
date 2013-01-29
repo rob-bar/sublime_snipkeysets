@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[->table(${1:table})]]>
 	</content>
-	<tabTrigger>->s</tabTrigger>
+	<tabTrigger>->tab</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => The table method sets/changes the table to insert into.</description> -->
 </snippet>

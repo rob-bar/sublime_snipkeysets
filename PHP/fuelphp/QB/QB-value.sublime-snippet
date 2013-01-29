@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[->value(${1:column}, ${2:value})]]>
 	</content>
-	<tabTrigger>->s</tabTrigger>
+	<tabTrigger>->val</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => The value method set a column and value to update.</description> -->
 </snippet>

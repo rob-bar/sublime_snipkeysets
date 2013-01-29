@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[Date::display_timezone(${1:timezone})]]>
 	</content>
-	<tabTrigger>fda</tabTrigger>
+	<tabTrigger>fdat</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => The display_timezone method allows you to globally set a timezone which can be used by the format() method to generate output in another timezone then the system timezone. If you don't pass a parameter, the current display_timezone is returned. </description> -->
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
 	<content>
-	<![CDATA[->get_timezone_abbr(${1:display_timezone})]]>
+	<![CDATA[get_timezone_abbr(${1:display_timezone})]]>
 	</content>
-	<tabTrigger>->d</tabTrigger>
+	<tabTrigger>fdat</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => The get_timezone_abbr method returns the abbreviated timezone for either the timezone set in the Date object, or for the display timezone.</description> -->
 </snippet>

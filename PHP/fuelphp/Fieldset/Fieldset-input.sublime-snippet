@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[input(${1:field})]]>
+	</content>
+	<tabTrigger>ffie</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Alias for $this->validation()->input(). Gets an array of validated input value(s) from either POST data or given input. See Validation.</description> -->
+</snippet>

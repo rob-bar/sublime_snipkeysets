@@ -5,7 +5,7 @@
 	$3;
 <?php endfor; ?>]]>
 	</content>
-    <tabTrigger>for</tabTrigger>
-    <!-- <scope></scope> -->
-    <!-- <description>Snippet that sets a php for tag.</description> -->
+		<tabTrigger>for</tabTrigger>
+		<!-- <scope></scope> -->
+		<!-- <description>Snippet that sets a php for tag.</description> -->
 </snippet>

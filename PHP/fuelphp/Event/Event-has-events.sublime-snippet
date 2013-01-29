@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[Event::has_events(${1:event})]]>
 	</content>
-	<tabTrigger>fev</tabTrigger>
+	<tabTrigger>feve</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => The has_events method is available so you can check if a particular registered event has triggers.</description> -->
 </snippet>

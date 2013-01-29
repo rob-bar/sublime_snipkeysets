@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[->as_object(${1:object})]]>
 	</content>
-	<tabTrigger>->a</tabTrigger>
+	<tabTrigger>->as</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => Getting results as object</description> -->
 </snippet>

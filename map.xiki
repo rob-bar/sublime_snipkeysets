@@ -1,6 +1,7 @@
 /Users/robbieb/Library/Application Support/Sublime Text 2/Packages/User
   + .git/
   + CSS/
+  + Html/
   + JavaScript/
   + LESS/
   + Markdown/
@@ -13,8 +14,12 @@
   empty.sublime-snippet
   Fetch.sublime-settings
   map.xiki
+  Marked.sublime-build
   Package Control.last-run
   Package Control.sublime-settings
+  php.sublime-build
   Preferences.sublime-settings
   README.md
+  Side Bar.sublime-settings
+  SublimeLinter.sublime-settings
 

@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[->join(${1:table}, ${2:type})]]>
 	</content>
-	<tabTrigger>->j</tabTrigger>
+	<tabTrigger>->join</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => The join method appends tables to join.</description> -->
 </snippet>

@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[->from(${1:tables})]]>
 	</content>
-	<tabTrigger>->f</tabTrigger>
+	<tabTrigger>->fro</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => The from method appends tables to select from.</description> -->
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
 	<content>
-	<![CDATA[Fieldset::add_before(${1:name}, ${2:label}, ${3:attributes}, ${4:rules}, ${5:fieldname})]]>
+	<![CDATA[add_before(${1:name}, ${2:label}, ${3:attributes}, ${4:rules}, ${5:fieldname})]]>
 	</content>
-	<tabTrigger>ffi</tabTrigger>
+	<tabTrigger>ffie</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => Creates a Fieldset_Field instance and adds it to the current Fieldset, just before an already defined field identified by $fieldname.</description> -->
 </snippet>

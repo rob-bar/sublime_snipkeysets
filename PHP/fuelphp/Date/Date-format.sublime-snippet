@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[Date::format(${1:pattern_key}, ${2:timezone})]]>
 	</content>
-	<tabTrigger>fda</tabTrigger>
+	<tabTrigger>fdat</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => The formatted method returns a formatted date as specified by the pattern key. The patterns are defined in the fuel/core/config/date.php config file - you can add your own by creating a similar file in app/config. </description> -->
 </snippet>

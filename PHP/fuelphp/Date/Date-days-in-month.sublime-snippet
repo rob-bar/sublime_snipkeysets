@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[Date::days_in_month(${1:month}, ${2:year})]]>
 	</content>
-	<tabTrigger>fda</tabTrigger>
+	<tabTrigger>fdat</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => The days_in_month returns the number of days in any given month, in the year specified</description> -->
 </snippet>

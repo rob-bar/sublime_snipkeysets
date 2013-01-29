@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[Event::forge(${1:events})]]>
 	</content>
-	<tabTrigger>fev</tabTrigger>
+	<tabTrigger>feve</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => The forge returns a new event object.</description> -->
 </snippet>

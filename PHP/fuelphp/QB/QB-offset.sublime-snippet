@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[->offset(${1:number})]]>
 	</content>
-	<tabTrigger>->o</tabTrigger>
+	<tabTrigger>->off</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => The offset method sets row number to start from when selecting/updating/deleting.</description> -->
 </snippet>

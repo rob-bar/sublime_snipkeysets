@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[->having_open()]]>
 	</content>
-	<tabTrigger>->h</tabTrigger>
+	<tabTrigger>->hav</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => The having_open method is an alias for and_having_open.</description> -->
 </snippet>

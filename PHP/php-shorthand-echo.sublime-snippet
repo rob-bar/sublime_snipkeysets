@@ -3,7 +3,7 @@
 	<![CDATA[
 <?= $1; ?>]]>
 	</content>
-    <tabTrigger>?=</tabTrigger>
-    <!-- <scope></scope> -->
-    <!-- <description>Snippet that sets a php shorthand echo tag.</description> -->
+		<tabTrigger>?=</tabTrigger>
+		<!-- <scope></scope> -->
+		<!-- <description>Snippet that sets a php shorthand echo tag.</description> -->
 </snippet>

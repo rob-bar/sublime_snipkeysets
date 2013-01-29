@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[->distinct(${1:value})]]>
 	</content>
-	<tabTrigger>->d</tabTrigger>
+	<tabTrigger>->dis</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => The distinct method sets whether to select distinct values.</description> -->
 </snippet>

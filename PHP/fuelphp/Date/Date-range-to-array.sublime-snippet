@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[Date::range_to_array(${1:start}, ${2:end}, ${3:interval})]]>
 	</content>
-	<tabTrigger>fda</tabTrigger>
+	<tabTrigger>fdat</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => The range_to_array converts a range of dates into an array of date objects.</description> -->
 </snippet>

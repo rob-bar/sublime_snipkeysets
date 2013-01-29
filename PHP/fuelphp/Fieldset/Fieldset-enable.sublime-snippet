@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[enable(${1:field})]]>
+	</content>
+	<tabTrigger>ffie</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>The enable method allows you to re-enable a field that has been disabled before.</description> -->
+</snippet>

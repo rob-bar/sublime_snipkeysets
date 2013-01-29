@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[->or_where_open()]]>
 	</content>
-	<tabTrigger>->o</tabTrigger>
+	<tabTrigger>->or</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => The or_where_open method opens an SQL closure and appends it using OR.</description> -->
 </snippet>

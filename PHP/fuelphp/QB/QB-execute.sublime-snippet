@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[->execute()]]>
 	</content>
-	<tabTrigger>->e</tabTrigger>
+	<tabTrigger>->exe</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => Executes the query</description> -->
 </snippet>

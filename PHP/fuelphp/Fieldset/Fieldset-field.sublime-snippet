@@ -1,8 +1,8 @@
 <snippet>
 	<content>
-	<![CDATA[Fieldset::field(${1:name})]]>
+	<![CDATA[field(${1:name})]]>
 	</content>
-	<tabTrigger>ffi</tabTrigger>
+	<tabTrigger>ffie</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => Gets one or all Fieldset_Field instances for the current Fieldset</description> -->
 </snippet>
