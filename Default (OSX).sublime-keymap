@@ -59,9 +59,9 @@
 			"cells": [[0, 0, 1, 1]]
 		}
 	},
-	{ "keys": ["shift+ctrl+&"], "command": "focus_group", "args": { "group": 0 } },
-	{ "keys": ["shift+ctrl+é"], "command": "focus_group", "args": { "group": 1 } },
-	{ "keys": ["shift+ctrl+\""], "command": "focus_group", "args": { "group": 2 } },
+	{ "keys": ["alt+&"], "command": "focus_group", "args": { "group": 0 } },
+	{ "keys": ["alt+é"], "command": "focus_group", "args": { "group": 1 } },
+	{ "keys": ["alt+\""], "command": "focus_group", "args": { "group": 2 } },
 	{ "keys": ["super+&"], "command": "move_to_group", "args": { "group": 0 } },
 	{ "keys": ["super+é"], "command": "move_to_group", "args": { "group": 1 } },
 	{ "keys": ["super+\""], "command": "move_to_group", "args": { "group": 2 } },

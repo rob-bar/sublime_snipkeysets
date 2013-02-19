@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[Debug::interfaces()]]>
 	</content>
-	<tabTrigger>fde</tabTrigger>
+	<tabTrigger>fdeb</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet => Output a list of all interface classes currently defined in the PHP runtime.</description> -->
 </snippet>
