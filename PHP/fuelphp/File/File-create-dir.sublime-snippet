@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[File::create_dir(${1:basepath}, ${2:name}, ${3:chmod}, ${4:area})]]>
+	</content>
+	<tabTrigger>ffil</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => Create a directory.</description> -->
+</snippet>

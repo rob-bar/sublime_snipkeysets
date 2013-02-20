@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[File::file_info(${1:path}, ${2:area})]]>
+	</content>
+	<tabTrigger>ffil</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => Retrieves an array of information about the specified file.</description> -->
+</snippet>

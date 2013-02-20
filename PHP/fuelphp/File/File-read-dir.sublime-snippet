@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[File::read_dir(${1:path}, ${2:depth}, ${3:filter}, ${4:area})]]>
+	</content>
+	<tabTrigger>ffil</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => Reads directory contents into an array.</description> -->
+</snippet>

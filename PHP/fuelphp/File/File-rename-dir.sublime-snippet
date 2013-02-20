@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[File::rename_dir(${1:path}, ${2:new_path}, ${3:source_area}, ${4:target_area})]]>
+	</content>
+	<tabTrigger>ffil</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => Rename or move a directory or file.</description> -->
+</snippet>

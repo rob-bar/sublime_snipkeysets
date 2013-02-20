@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[Finder::forge(${1:paths})]]>
+	</content>
+	<tabTrigger>ffin</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => The forge method returns a new finder object.</description> -->
+</snippet>

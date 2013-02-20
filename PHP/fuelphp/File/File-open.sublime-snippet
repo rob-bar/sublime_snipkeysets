@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[File::open_file(${1:path}, ${2:lock}, ${3:area})]]>
+	</content>
+	<tabTrigger>ffil</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => Opens a file and locks it.</description> -->
+</snippet>

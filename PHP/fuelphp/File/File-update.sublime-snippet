@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[File::update(${1:basepath}, ${2:name}, ${3:contents}, ${4:area})]]>
+	</content>
+	<tabTrigger>ffil</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => Updates a file.</description> -->
+</snippet>

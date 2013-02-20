@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[File::copy(${1:path}, ${2:new_path}, ${3:source_area}, ${4:target_area})]]>
+	</content>
+	<tabTrigger>ffil</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => Copies a file.</description> -->
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[File::append(${1:basepath}, ${2:name}, ${3:contents}, ${4:area})]]>
+	</content>
+	<tabTrigger>ffil</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => Appends to an existing file.</description> -->
+</snippet>
