@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[Finder::remove_path(${1:path})]]>
+	</content>
+	<tabTrigger>ffin</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet =>  The remove_path method removes the given path from the Finder instance search list. </description> -->
+</snippet>

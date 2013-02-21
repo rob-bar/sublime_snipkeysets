@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[Finder::locate(${1:dir}, ${2:file}, ${3:ext}, ${4:multiple}, ${5:cache})]]>
+	</content>
+	<tabTrigger>ffin</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet =>  The locate method locates files in the defined search paths.</description> -->
+</snippet>

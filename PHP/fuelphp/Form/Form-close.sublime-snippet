@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+	<![CDATA[Form::close()]]>
+	</content>
+	<tabTrigger>ffor</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet =>  Create a form close tag.
+</description> -->
+</snippet>

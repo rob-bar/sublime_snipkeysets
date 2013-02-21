@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[Finder::list_files(${1:directory}, ${2:filter})]]>
+	</content>
+	<tabTrigger>ffin</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet =>  The list_files method gets a list of all the files in a given directory inside all of the loaded search paths (e.g. the cascading file system). This is useful for things like finding all the config files in all the search paths. </description> -->
+</snippet>

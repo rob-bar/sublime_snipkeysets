@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+	<![CDATA[Form::open(${1:attributes}, ${2:hidden})]]>
+	</content>
+	<tabTrigger>ffor</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet =>  Create a form open tag.
+</description> -->
+</snippet>

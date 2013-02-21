@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+	<![CDATA[Finder::paths()]]>
+	</content>
+	<tabTrigger>ffin</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet =>  The paths method returns the list of defined search paths. </description> -->
+</snippet>
