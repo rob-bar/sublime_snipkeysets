@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+	<![CDATA[Form::label(${1:label}, ${2:id}, ${3:attributes})]]>
+	</content>
+	<tabTrigger>fform</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => Creates an html label element. It can be set using label, the id it's for and tag attributes or all in one attribute for the first argument.
+</description> -->
+</snippet>

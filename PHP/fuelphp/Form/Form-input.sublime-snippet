@@ -2,7 +2,7 @@
 	<content>
 	<![CDATA[Form::input(${1:field}, ${2:value}, ${3attributes})]]>
 	</content>
-	<tabTrigger>ffor</tabTrigger>
+	<tabTrigger>fform</tabTrigger>
 	<!-- <scope></scope> -->
 	<!-- <description>Fuelphp Snippet =>  Creates an html input element. It can be set using the fieldname, its value and tag attributes or all in one array as the first argument.
 </description> -->

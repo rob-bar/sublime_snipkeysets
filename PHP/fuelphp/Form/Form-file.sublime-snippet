@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+	<![CDATA[Form::file(${1:field}, ${2:attributes})]]>
+	</content>
+	<tabTrigger>fform</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet => This is an alias for Form::input() that automatically sets the type attribute to 'file'.
+</description> -->
+</snippet>
