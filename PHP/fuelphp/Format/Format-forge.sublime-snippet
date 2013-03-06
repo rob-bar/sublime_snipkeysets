@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+	<![CDATA[Format::forge(${1:data}, ${2:from_type})]]>
+	</content>
+	<tabTrigger>ffor</tabTrigger>
+	<!-- <scope></scope> -->
+	<!-- <description>Fuelphp Snippet =>  The forge method returns a new format object.
+</description> -->
+</snippet>
