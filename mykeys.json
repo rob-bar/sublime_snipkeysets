@@ -28,6 +28,7 @@
 				"Compress": "cmd + alt + shft + G",//Gzip
 				"Open in sublime text 2": "cmd + alt + shft + S",//Sublime
 				"QuickDropShare": "cmd + alt + shft + B",//Box
+				"QuickAlwaysShare": "cmd + alt + shft + ctrl + B", //Box but always
 				"Search in Google": "cmd + alt + shft + L",//Lookup
 				"Upload with transmit": "cmd + alt + shft + U",//Upload
 				"New Email To Adress": "cmd + alt + shft + T",//To
