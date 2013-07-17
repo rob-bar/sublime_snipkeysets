@@ -6,12 +6,15 @@
 		"BracketHighlighter",
 		"CoffeeScript",
 		"Gist",
+		"Handlebars",
 		"HTML Snippets",
 		"HTML5",
 		"Http Requester",
+		"Jade",
 		"jQuery Snippets pack",
 		"LESS",
 		"Markdown Preview",
+		"Minifier",
 		"Nettuts+ Fetch",
 		"Package Control",
 		"Prefixr",
@@ -20,6 +23,7 @@
 		"Search Stack Overflow",
 		"SideBarEnhancements",
 		"SublimeLinter",
+		"Theme - Flatland",
 		"Todo",
 		"Xdebug"
 	]
