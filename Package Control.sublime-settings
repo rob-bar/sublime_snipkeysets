@@ -22,9 +22,14 @@
 		"Sass",
 		"Search Stack Overflow",
 		"SideBarEnhancements",
+		"sublime-underscorejs-coffee-snippets",
 		"SublimeLinter",
 		"Theme - Flatland",
 		"Todo",
 		"Xdebug"
+	],
+	"repositories":
+	[
+		"https://github.com/alepee/sublime-underscorejs-coffee-snippets"
 	]
 }

@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+  <![CDATA[module.exports = $1]]>
+  </content>
+    <tabTrigger>mod</tabTrigger>
+    <!-- <scope></scope> -->
+    <!-- <description>Snippet that generates a module.exports line</description> -->
+</snippet>

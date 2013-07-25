@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+  <![CDATA[define [$1], ($2) ->
+  ]]>
+  </content>
+    <tabTrigger>def</tabTrigger>
+    <!-- <scope></scope> -->
+    <!-- <description>Snippet that generates a coffescript define function</description> -->
+</snippet>
