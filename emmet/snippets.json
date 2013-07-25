@@ -1,0 +1,17 @@
+{
+  "variables": {
+    "lang": "en",
+    "locale": "en-US",
+    "charset": "UTF-8",
+    "indentation": "\t",
+    "newline": "\n"
+  },
+
+  "sass": {
+    "snippets": {
+      "@": "@mixin $1($2)\n\t$3",
+      "@i": "@import \"$1\"",
+      "@e": "@extend $1"
+    }
+  }
+}
