@@ -1,14 +1,17 @@
 {
 	"files":
 	{
+		"async": "https://raw.github.com/caolan/async/master/lib/async.js",
 		"backbone": "https://raw.github.com/documentcloud/backbone/master/backbone.js",
+		"blade": "https://raw.github.com/bminer/node-blade/master/lib/blade.js",
 		"enquire": "https://raw.github.com/WickyNilliams/enquire.js/master/dist/enquire.js",
 		"html5 shiv": "https://raw.github.com/aFarkas/html5shiv/master/src/html5shiv.js",
 		"jquery": "http://code.jquery.com/jquery.js",
+		"jquery.placeholder": "https://raw.github.com/mathiasbynens/jquery-placeholder/master/jquery.placeholder.js",
 		"jquery.preload": "https://raw.github.com/rob-bar/preload/master/loader.jquery.js",
 		"js.validator": "https://raw.github.com/rob-bar/Validator/master/validator.js",
 		"modernizr": "https://raw.github.com/Modernizr/Modernizr/master/modernizr.js",
-		"selectivizr": "https://raw.github.com/keithclark/selectivizr/master/selectivizr.js",
+		"requirejs": "https://raw.github.com/jrburke/requirejs/master/require.js",
 		"underscore": "https://raw.github.com/documentcloud/underscore/master/underscore.js"
 	},
 	"packages":

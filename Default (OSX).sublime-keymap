@@ -72,5 +72,6 @@
 	{
 		"keys": ["ctrl+alt+space"],
 		"command": "expand_tabs"
-	}
+	},
+	{"keys": ["super+shift+e"], "command": "encode_html_entities"}
 ]
