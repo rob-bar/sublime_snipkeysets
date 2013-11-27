@@ -73,5 +73,11 @@
 		"keys": ["ctrl+alt+space"],
 		"command": "expand_tabs"
 	},
-	{"keys": ["super+shift+e"], "command": "encode_html_entities"}
+	{"keys": ["super+shift+e"], "command": "encode_html_entities"},
+
+	{ "keys": ["super+k", "super+c"], "command": "gist" },
+	{ "keys": ["super+k", "super+l"], "command": "gist_list" },
+	{ "keys": ["super+k", "super+i"], "command": "insert_gist_list" },
+	{ "keys": ["super+k", "super+a"], "command": "gist_add_file" }
+
 ]
