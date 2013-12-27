@@ -78,6 +78,10 @@
 	{ "keys": ["super+k", "super+c"], "command": "gist" },
 	{ "keys": ["super+k", "super+l"], "command": "gist_list" },
 	{ "keys": ["super+k", "super+i"], "command": "insert_gist_list" },
-	{ "keys": ["super+k", "super+a"], "command": "gist_add_file" }
+	{ "keys": ["super+k", "super+a"], "command": "gist_add_file" },
 
+	{ "keys": ["super+:", "super+n"], "command": "advanced_new_file_new"},
+	{ "keys": ["super+:", "super+m"], "command": "advanced_new_file_move"},
+	{ "keys": ["super+:", "super+r"], "command": "advanced_new_file_delete"},
+	{ "keys": ["super+:", "super+r", "super+c"], "command": "advanced_new_file_delete", "args": {"current": true}}
 ]
