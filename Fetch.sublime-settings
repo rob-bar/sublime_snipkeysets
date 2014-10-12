@@ -12,6 +12,7 @@
 		"js.validator": "https://raw.github.com/rob-bar/Validator/master/validator.js",
 		"modernizr": "https://raw.github.com/Modernizr/Modernizr/master/modernizr.js",
 		"requirejs": "https://raw.github.com/jrburke/requirejs/master/require.js",
+		"respond": "https://raw2.github.com/scottjehl/Respond/master/dest/respond.src.js",
 		"underscore": "https://raw.github.com/documentcloud/underscore/master/underscore.js"
 	},
 	"packages":

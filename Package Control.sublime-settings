@@ -1,36 +1,43 @@
 {
-	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"AlignTab",
+		"Better CoffeeScript",
 		"BracketHighlighter",
-		"CoffeeScript",
+		"DashDoc",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"Find++",
 		"Gist",
+		"Google Spell Check",
+		"Gutter Color",
 		"Handlebars",
-		"HTML Snippets",
+		"HTML-CSS-JS Prettify",
 		"HTML5",
 		"Http Requester",
+		"IcedCoffeeScript",
 		"Insert Nums",
 		"Jade",
-		"jQuery Snippets pack",
+		"JavaScript Snippets",
 		"LESS",
-		"Markdown Preview",
 		"Minifier",
 		"Nettuts+ Fetch",
-		"Package Control",
-		"Prefixr",
+		"PHP-Twig",
+		"Predawn",
 		"Pretty JSON",
 		"Sass",
 		"Search Stack Overflow",
 		"SideBarEnhancements",
-		"sublime-underscorejs-coffee-snippets",
 		"SublimeLinter",
+		"SublimeLinter-coffee",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeXiki",
 		"Theme - Flatland",
-		"Todo",
-		"Xdebug"
-	],
-	"repositories":
-	[
-		"https://github.com/alepee/sublime-underscorejs-coffee-snippets"
+		"Theme - Piatto",
+		"Theme - Spacegray"
 	]
 }

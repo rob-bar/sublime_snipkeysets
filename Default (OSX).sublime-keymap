@@ -59,12 +59,12 @@
 			"cells": [[0, 0, 1, 1]]
 		}
 	},
-	{ "keys": ["alt+&"], "command": "focus_group", "args": { "group": 0 } },
-	{ "keys": ["alt+é"], "command": "focus_group", "args": { "group": 1 } },
-	{ "keys": ["alt+\""], "command": "focus_group", "args": { "group": 2 } },
-	{ "keys": ["super+&"], "command": "move_to_group", "args": { "group": 0 } },
-	{ "keys": ["super+é"], "command": "move_to_group", "args": { "group": 1 } },
-	{ "keys": ["super+\""], "command": "move_to_group", "args": { "group": 2 } },
+	// { "keys": ["alt+&"], "command": "focus_group", "args": { "group": 0 } },
+	// { "keys": ["alt+é"], "command": "focus_group", "args": { "group": 1 } },
+	// { "keys": ["alt+\""], "command": "focus_group", "args": { "group": 2 } },
+	// { "keys": ["super+&"], "command": "move_to_group", "args": { "group": 0 } },
+	// { "keys": ["super+é"], "command": "move_to_group", "args": { "group": 1 } },
+	// { "keys": ["super+\""], "command": "move_to_group", "args": { "group": 2 } },
 	{
 		"keys": ["alt+space"],
 		"command": "unexpand_tabs"
@@ -80,8 +80,24 @@
 	{ "keys": ["super+k", "super+i"], "command": "insert_gist_list" },
 	{ "keys": ["super+k", "super+a"], "command": "gist_add_file" },
 
-	{ "keys": ["super+:", "super+n"], "command": "advanced_new_file_new"},
-	{ "keys": ["super+:", "super+m"], "command": "advanced_new_file_move"},
-	{ "keys": ["super+:", "super+r"], "command": "advanced_new_file_delete"},
-	{ "keys": ["super+:", "super+r", "super+c"], "command": "advanced_new_file_delete", "args": {"current": true}}
+	// { "keys": ["super+:", "super+n"], "command": "advanced_new_file_new"},
+	// { "keys": ["super+:", "super+m"], "command": "advanced_new_file_move"},
+	// { "keys": ["super+:", "super+r"], "command": "advanced_new_file_delete"},
+	// { "keys": ["super+:", "super+r", "super+c"], "command": "advanced_new_file_delete", "args": {"current": true}},
+	{ "keys": ["super+alt+?"], "command": "goto_definition" },
+	{ "keys": ["super+k", "super+u"], "command": "upper_case" },
+	{ "keys": ["super+k", "super+d"], "command": "lower_case" },
+
+	//qwerty
+	{ "keys": ["alt+1"], "command": "focus_group", "args": { "group": 0 } },
+	{ "keys": ["alt+2"], "command": "focus_group", "args": { "group": 1 } },
+	{ "keys": ["alt+3"], "command": "focus_group", "args": { "group": 2 } },
+	{ "keys": ["super+1"], "command": "move_to_group", "args": { "group": 0 } },
+	{ "keys": ["super+2"], "command": "move_to_group", "args": { "group": 1 } },
+	{ "keys": ["super+3"], "command": "move_to_group", "args": { "group": 2 } },
+	{ "keys": ["super+;", "super+n"], "command": "advanced_new_file_new"},
+	{ "keys": ["super+;", "super+m"], "command": "advanced_new_file_move"},
+	{ "keys": ["super+;", "super+r"], "command": "advanced_new_file_delete"},
+	{ "keys": ["super+;", "super+r", "super+c"], "command": "advanced_new_file_delete", "args": {"current": true}}
+
 ]

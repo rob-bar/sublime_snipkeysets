@@ -1,0 +1,13 @@
+<snippet>
+  <content>
+  <![CDATA[${1:Done/CodeReview/Error/Info}:
+
+  * ${2:description}
+  * commits: [${3:commits}]
+  * issuebranch: ${4:branch}
+  * ticketlink: ${4:ticketlink}]]>
+  </content>
+    <tabTrigger>jira</tabTrigger>
+    <!-- <scope></scope> -->
+    <!-- <description></description> -->
+</snippet>

@@ -1,7 +1,7 @@
 {
     // Your GitHub API token
     // see: https://github.com/condemil/Gist#generating-access-token
-    "token": "77f83e1dd8eaf491657a9e2531c3b2015358ee3e",
+    "token": "aec72935b2979aabc07f06068fe58635175b6243",
 
     // Show GitHub organizations
     // Example: "company1", "company2"
@@ -12,7 +12,7 @@
     "include_users": [],
 
     // Show the authors of Gists
-    "show_authors": true,
+    "show_authors": false,
 
     // Prefer first file name instead of description in Open Gist menu
     "prefer_filename": false,
@@ -32,7 +32,10 @@
     "max_gists": 100,
 
     // Only use starred gists
-    "use_starred": false
+    "use_starred": false,
+
+    // Disable the "save file..." dialog when closing a Gist
+    "supress_save_dialog": true
 
     // Limit to gists with specific prefix
     //"gist_prefix": "Snippet:",

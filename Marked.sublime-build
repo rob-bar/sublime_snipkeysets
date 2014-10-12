@@ -1,4 +1,4 @@
 {
-	"cmd": ["open","-a","/Applications/Marked.app","$file"],
+	"cmd": ["open","-a","/Users/robbiebardijn/Applications/Marked.app","$file"],
 	"selector": "text.html.markdown"
 }
