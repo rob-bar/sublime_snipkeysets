@@ -1,8 +1,8 @@
 <snippet>
 	<content>
-	<![CDATA[clearInterval(${1:intervalId});]]>
+<![CDATA[clearInterval(${1:intervalId});]]>
 	</content>
-    <tabTrigger>js</tabTrigger>
+    <tabTrigger>clearinterval</tabTrigger>
     <!-- <scope></scope> -->
     <!-- <description>Snippet that removes a running js interval</description> -->
 </snippet>

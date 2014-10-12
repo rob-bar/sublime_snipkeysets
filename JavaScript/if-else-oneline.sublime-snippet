@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[(${1:expr}) ? ${2:true} : ${3:false};]]>
-	</content>
-    <tabTrigger>jse</tabTrigger>
-    <!-- <scope></scope> -->
-    <!-- <description>Snippet that generates an onelined if else case
-</description> -->
-</snippet>

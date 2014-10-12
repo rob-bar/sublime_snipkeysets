@@ -7,7 +7,7 @@ if (${1:expr}) {
     $3;
 }]]>
 	</content>
-    <tabTrigger>jse</tabTrigger>
+    <tabTrigger>ifelse</tabTrigger>
     <!-- <scope></scope> -->
     <!-- <description>Snippet that generates a regular if else case
 </description> -->

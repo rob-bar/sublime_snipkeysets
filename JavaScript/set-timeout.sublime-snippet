@@ -1,9 +1,9 @@
 <snippet>
 	<content>
-	<![CDATA[
+<![CDATA[
 setTimeout(${1:callBack},${2:1000});]]>
 	</content>
-    <tabTrigger>js</tabTrigger>
+    <tabTrigger>st</tabTrigger>
     <!-- <scope></scope> -->
     <!-- <description>Snippet that generates s timeout for over 1000 millisecondes.</description> -->
 </snippet>

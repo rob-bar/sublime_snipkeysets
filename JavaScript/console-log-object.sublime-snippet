@@ -1,8 +1,8 @@
 <snippet>
 	<content>
-	<![CDATA[console.dir(${1:obj});]]>
+<![CDATA[console.dir(${1:obj});]]>
 	</content>
-    <tabTrigger>jsd</tabTrigger>
+    <tabTrigger>cd</tabTrigger>
     <!-- <scope></scope> -->
     <!-- <description>Snippet that outputs an objects values via the Console class in the browser console.</description> -->
 </snippet>

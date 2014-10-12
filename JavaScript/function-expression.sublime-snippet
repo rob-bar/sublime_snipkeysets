@@ -1,11 +1,11 @@
 <snippet>
-	<content>
-	<![CDATA[
-function ${1:name}(${2:args}) {
-	$3;
+  <content>
+  <![CDATA[
+var ${1:name} = function (${2:args}) {
+  $3;
 }]]>
-	</content>
-    <tabTrigger>fnc</tabTrigger>
+  </content>
+    <tabTrigger>fnce</tabTrigger>
     <!-- <scope></scope> -->
     <!-- <description>Snippet that generates a function with optional parrameters optional log system and optional return</description> -->
 </snippet>

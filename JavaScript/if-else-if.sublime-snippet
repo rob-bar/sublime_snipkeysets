@@ -9,7 +9,7 @@ if (${1:expr}) {
 	$5;
 }]]>
 	</content>
-    <tabTrigger>jse</tabTrigger>
+    <tabTrigger>ifelseif</tabTrigger>
     <!-- <scope></scope> -->
     <!-- <description>Snippet that genrates a regular if elseif else case</description> -->
 </snippet>

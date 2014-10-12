@@ -5,7 +5,7 @@ if (${1:expr}) {
 	$2;
 }]]>
 	</content>
-    <tabTrigger>jse</tabTrigger>
+    <tabTrigger>if</tabTrigger>
     <!-- <scope></scope> -->
     <!-- <description>Snippet that generates an if case
 </description> -->

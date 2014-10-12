@@ -7,7 +7,7 @@ for (var ${1:parram} in ${2:object}) {
 	}
 }]]>
 	</content>
-    <tabTrigger>jsl</tabTrigger>
+    <tabTrigger>forin</tabTrigger>
     <!-- <scope></scope> -->
     <!-- <description>Snippet that generates a for loop thats runs trough an object
 </description> -->
