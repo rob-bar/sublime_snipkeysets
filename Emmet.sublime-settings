@@ -101,8 +101,8 @@
   // List of all available preferences:
   // http://docs.emmet.io/customization/preferences/
   "preferences": {
-    // "css.valueSeparator": ": ",
-    // "css.propertyEnd": ";"
+    // "scss.valueSeparator": ": ",
+    "sass.propertyEnd": ";"
   },
 
   // Output profiles for syntaxes

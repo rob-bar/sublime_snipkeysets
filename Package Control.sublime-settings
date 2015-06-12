@@ -1,4 +1,7 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -11,6 +14,7 @@
 		"FileDiffs",
 		"Find++",
 		"Gist",
+		"GitGutter",
 		"Google Spell Check",
 		"Gutter Color",
 		"Handlebars",
@@ -21,8 +25,10 @@
 		"Insert Nums",
 		"Jade",
 		"LESS",
+		"Meteor Autocomplete (TernJS)",
 		"Minifier",
 		"Nettuts+ Fetch",
+		"Package Control",
 		"PackageResourceViewer",
 		"PHP-Twig",
 		"Predawn",
@@ -32,11 +38,15 @@
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-coffee",
+		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"SublimeXiki",
+		"Theme - Afterglow",
+		"Theme - Asphalt",
 		"Theme - Flatland",
+		"Theme - itg.flat",
 		"Theme - Piatto",
 		"Theme - Spacegray"
 	]

@@ -4,7 +4,7 @@
 		"command": "set_layout",
 		"args":
 		{
-			"cols": [0.0, 0.2, 0.6, 1.0],
+			"cols": [0.0, 0.25, 0.665, 1.0],
 			"rows": [0.0, 1.0],
 			"cells": [[0, 0, 1, 1], [1, 0, 2, 1], [2, 0, 3, 1]]
 		}
@@ -98,6 +98,7 @@
 	{ "keys": ["super+;", "super+n"], "command": "advanced_new_file_new"},
 	{ "keys": ["super+;", "super+m"], "command": "advanced_new_file_move"},
 	{ "keys": ["super+;", "super+r"], "command": "advanced_new_file_delete"},
-	{ "keys": ["super+;", "super+r", "super+c"], "command": "advanced_new_file_delete", "args": {"current": true}}
+	{ "keys": ["super+;", "super+r", "super+c"], "command": "advanced_new_file_delete", "args": {"current": true}},
+	{ "keys": ["super+o", "super+f"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"}}
 
 ]
