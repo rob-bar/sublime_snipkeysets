@@ -1,6 +1,5 @@
 {
 	"auto_complete_commit_on_tab": true,
-	"theme": "Afterglow-blue.sublime-theme",
 	"color_scheme": "Packages/User/predawn (SL).tmTheme",
 	"create_window_at_startup": false,
 	"draw_white_space": "all",
@@ -19,7 +18,7 @@
 		"node_modules",
 		"tmp"
 	],
-	"font_size": 12.0,
+	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -28,6 +27,7 @@
 	],
 	"scroll_past_end": true,
 	"tab_size": 2,
+	"theme": "predawn.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"vintage_start_in_command_mode": true,

@@ -1,26 +1,10 @@
 {
 	"files":
 	{
-		"async": "https://raw.github.com/caolan/async/master/lib/async.js",
-		"backbone": "https://raw.github.com/documentcloud/backbone/master/backbone.js",
-		"blade": "https://raw.github.com/bminer/node-blade/master/lib/blade.js",
-		"enquire": "https://raw.github.com/WickyNilliams/enquire.js/master/dist/enquire.js",
-		"html5 shiv": "https://raw.github.com/aFarkas/html5shiv/master/src/html5shiv.js",
-		"jquery": "http://code.jquery.com/jquery.js",
-		"jquery.placeholder": "https://raw.github.com/mathiasbynens/jquery-placeholder/master/jquery.placeholder.js",
-		"jquery.preload": "https://raw.github.com/rob-bar/preload/master/loader.jquery.js",
-		"js.validator": "https://raw.github.com/rob-bar/Validator/master/validator.js",
-		"modernizr": "https://raw.github.com/Modernizr/Modernizr/master/modernizr.js",
-		"requirejs": "https://raw.github.com/jrburke/requirejs/master/require.js",
-		"respond": "https://raw2.github.com/scottjehl/Respond/master/dest/respond.src.js",
-		"underscore": "https://raw.github.com/documentcloud/underscore/master/underscore.js"
+		"jquery": "http://code.jquery.com/jquery.min.js"
 	},
 	"packages":
 	{
-		"html5 boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master",
-		"more.or.less": "https://github.com/rob-bar/moreorless/archive/master.zip",
-		"requirejs": "http://requirejs.org/docs/release/jquery-require/jquery1.8.3-requirejs2.1.2/jquery-require-sample.zip",
-		"reveal.js": "https://github.com/hakimel/reveal.js/archive/master.zip",
-		"twitter bootstrap": "https://github.com/twitter/bootstrap/archive/master.zip"
+		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master"
 	}
 }

@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -6,6 +7,7 @@
 	[
 		"AdvancedNewFile",
 		"AlignTab",
+		"Backbone.js",
 		"Better CoffeeScript",
 		"BracketHighlighter",
 		"DashDoc",
@@ -36,6 +38,7 @@
 		"Sass",
 		"Search Stack Overflow",
 		"SideBarEnhancements",
+		"Smarty",
 		"SublimeLinter",
 		"SublimeLinter-coffee",
 		"SublimeLinter-contrib-scss-lint",
