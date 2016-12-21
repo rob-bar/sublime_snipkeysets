@@ -7,9 +7,11 @@
 	[
 		"AdvancedNewFile",
 		"AlignTab",
+		"Autoprefixer",
 		"Backbone.js",
 		"Better CoffeeScript",
 		"BracketHighlighter",
+		"Colorsublime",
 		"DashDoc",
 		"DocBlockr",
 		"Emmet",
@@ -27,7 +29,9 @@
 		"Insert Nums",
 		"Jade",
 		"LESS",
-		"Meteor Autocomplete (TernJS)",
+		"LoremIpsum",
+		"Material Theme",
+		"Material Theme - Appbar",
 		"Minifier",
 		"Nettuts+ Fetch",
 		"Package Control",
@@ -39,10 +43,10 @@
 		"Search Stack Overflow",
 		"SideBarEnhancements",
 		"Smarty",
+		"StringEncode",
 		"SublimeLinter",
 		"SublimeLinter-coffee",
 		"SublimeLinter-contrib-scss-lint",
-		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"SublimeXiki",
@@ -51,6 +55,8 @@
 		"Theme - Flatland",
 		"Theme - itg.flat",
 		"Theme - Piatto",
-		"Theme - Spacegray"
+		"Theme - Spacegray",
+		"TypeScript",
+		"zz File Icons"
 	]
 }
