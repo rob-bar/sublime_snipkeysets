@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[
-Autoloader::add_namespaces(${1:namespace}, ${2:prepend})]]>
-	</content>
-	<tabTrigger>fauto</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The add_namespaces method adds an array of namespaces.</description> -->
-</snippet>

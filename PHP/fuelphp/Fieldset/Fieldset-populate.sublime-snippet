@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[populate(${1:input}, ${2:repopulate})]]>
-	</content>
-	<tabTrigger>ffie</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Set initial field values to the given input, optionally set it to repopulate after that as well.</description> -->
-</snippet>

@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[
-Agent::platform()]]>
-	</content>
-	<tabTrigger>fage</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => Returns the normalized platform name from the user agent string.</description> -->
-</snippet>

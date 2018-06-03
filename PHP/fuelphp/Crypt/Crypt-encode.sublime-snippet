@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[Crypt::encode(${1:value}, ${2:key})]]>
-	</content>
-	<tabTrigger>fcry</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The encode method encrypts a string value, optionally with a custom encryption key.</description> -->
-</snippet>

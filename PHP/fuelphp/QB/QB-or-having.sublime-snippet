@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[->or_having(${1:column}, ${2:op}, ${3:value})]]>
-	</content>
-	<tabTrigger>->or</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The and_having method appends a "OR HAVING" statement.</description> -->
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[DB::commit_transaction(${1:db})]]>
-	</content>
-	<tabTrigger>fddb</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The commit_transaction method commits all pending transactional queries.</description> -->
-</snippet>

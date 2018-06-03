@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[disable(${1:field})]]>
-	</content>
-	<tabTrigger>ffie</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>The disable method allows you to disable a field from being build. You can use this if you want to alter the sequence of fields on the form, or to create more complex layouts without having to build individual fields. </description> -->
-</snippet>

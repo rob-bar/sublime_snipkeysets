@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[
-Autoloader::add_classes(${1:classes})]]>
-	</content>
-	<tabTrigger>fauto</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The add_class method adds an array of classes.</description> -->
-</snippet>

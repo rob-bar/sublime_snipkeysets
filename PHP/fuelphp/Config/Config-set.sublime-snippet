@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[Config::set(${1:item}, ${2:value})]]>
-	</content>
-	<tabTrigger>fcon</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The set method Sets a given $item to $value. $item can be dot (.) separated, just like get().</description> -->
-</snippet>

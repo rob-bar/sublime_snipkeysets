@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[
-\Cli::wait(${1:seconds}, ${2:countdown})]]>
-	</content>
-	<tabTrigger>fcli</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The wait method will make the cli output wait for a given number of seconds and optionally show a countdown.</description> -->
-</snippet>

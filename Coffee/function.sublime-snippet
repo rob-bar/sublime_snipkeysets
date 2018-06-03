@@ -1,8 +1,0 @@
-<snippet>
-  <content>
-  <![CDATA[${1:($2)} -> $3]]>
-  </content>
-    <tabTrigger>-</tabTrigger>
-    <!-- <scope></scope> -->
-    <!-- <description>Snippet that generates a coffescript oneline function</description> -->
-</snippet>

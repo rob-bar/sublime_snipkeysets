@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[Form::reset(${1:field}, ${2:value}, ${3:attributes})]]>
-	</content>
-	<tabTrigger>fform</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => This is an alias for Form::input() that automatically sets the type attribute to 'reset'.
-</description> -->
-</snippet>

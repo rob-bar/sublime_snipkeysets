@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[DB::in_transaction(${1:db})]]>
-	</content>
-	<tabTrigger>fddb</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The in_transaction method checks whether a connection is in transaction.</description> -->
-</snippet>

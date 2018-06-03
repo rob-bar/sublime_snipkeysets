@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[
-Cache::get(${1:identifier}, ${2:use_expiration})]]>
-	</content>
-	<tabTrigger>fcac</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => Retrieves a cache.</description> -->
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[File::delete_dir(${1:path}, ${2:recursive}, ${3:delete_top}, ${4:area})]]>
-	</content>
-	<tabTrigger>ffil</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => Deletes a directory.</description> -->
-</snippet>

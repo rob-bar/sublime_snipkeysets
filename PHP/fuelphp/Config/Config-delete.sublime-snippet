@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[Config::delete(${1:item})]]>
-	</content>
-	<tabTrigger>fcon</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The delete method removes a given $item. $item can be dot (.) separated, just like set() and get() .</description> -->
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[->and_having_close()]]>
-	</content>
-	<tabTrigger>->and</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The and_having_close method closes an SQL closure.</description> -->
-</snippet>

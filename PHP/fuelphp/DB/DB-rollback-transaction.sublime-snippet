@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[DB::rollback_transaction(${1:db})]]>
-	</content>
-	<tabTrigger>fddb</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The rollback_transaction method rolls back all pending transactional queries.</description> -->
-</snippet>

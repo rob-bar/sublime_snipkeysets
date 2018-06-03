@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[validated(${1:field})]]>
-	</content>
-	<tabTrigger>ffie</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Alias for $this->validation()->validated(). Gets an array of input value(s) that passed validation. See Validation.</description> -->
-</snippet>

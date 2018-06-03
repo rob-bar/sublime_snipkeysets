@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[
-Cache::set(${1:identifier}, ${2:contents}, ${3:expiration}, ${4:dependencies})]]>
-	</content>
-	<tabTrigger>fcac</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => Writes a cache.</description> -->
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[DB::count_records(${1:table}, ${2:db})]]>
-	</content>
-	<tabTrigger>fddb</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The count_records method returns the number of records in a table.</description> -->
-</snippet>

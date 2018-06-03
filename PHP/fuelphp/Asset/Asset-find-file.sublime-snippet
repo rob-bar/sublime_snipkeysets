@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[
-Asset::find_file(${1:file}, ${2:type}, ${3:folder})]]>
-	</content>
-	<tabTrigger>fass</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The find_file locates a file of a given type in all defined asset search folders for that type.</description> -->
-</snippet>

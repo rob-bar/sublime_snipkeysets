@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[
-Cache::delete(${1:identifier})]]>
-	</content>
-	<tabTrigger>fcac</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => Deletes a cache.</description> -->
-</snippet>

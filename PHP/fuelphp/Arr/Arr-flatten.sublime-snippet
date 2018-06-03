@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[
-Arr::flatten(${1:array}, ${2:glue}, ${3:reset})]]>
-	</content>
-	<tabTrigger>farr</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The flatten method flattens a multi-dimensional array (both associative and indexed) down into a 1 dimensional array.</description> -->
-</snippet>

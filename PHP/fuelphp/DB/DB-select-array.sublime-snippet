@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[DB::select_array(${1:columns})]]>
-	</content>
-	<tabTrigger>fddb</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The select_array method returns a new Database_Query_Builder_Select object.</description> -->
-</snippet>

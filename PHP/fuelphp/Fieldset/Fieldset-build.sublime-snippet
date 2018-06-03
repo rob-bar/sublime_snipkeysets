@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[build(${1:action})]]>
-	</content>
-	<tabTrigger>ffie</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Alias for $this->form()->build() for this fieldset. Generates the HTML form markup. See Form.</description> -->
-</snippet>

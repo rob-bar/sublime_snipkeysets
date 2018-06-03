@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[field(${1:name})]]>
-	</content>
-	<tabTrigger>ffie</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => Gets one or all Fieldset_Field instances for the current Fieldset</description> -->
-</snippet>

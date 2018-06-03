@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[Form::textarea(${1:field}, ${2:value}, ${3:attributes})]]>
-	</content>
-	<tabTrigger>fform</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => Creates an html textarea element. It can be set using the fieldname, its value and tag attributes or all in one attribute for the first argument.
-</description> -->
-</snippet>

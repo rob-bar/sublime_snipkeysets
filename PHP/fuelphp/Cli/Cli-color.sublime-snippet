@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[
-\Cli::color(${1:text}, ${2:foreground}, ${3:background})]]>
-	</content>
-	<tabTrigger>fcli</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The color method changes the color of a piece of text.</description> -->
-</snippet>

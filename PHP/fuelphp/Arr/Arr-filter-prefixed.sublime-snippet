@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[
-Arr::filter_prefixed(${1:array}, ${2:prefix}, ${3:remove_prefix})]]>
-	</content>
-	<tabTrigger>farr</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The filter_prefixed method filters the array on a prefix. It returns an array where the key starts with the specified prefix.</description> -->
-</snippet>

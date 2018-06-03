@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[
-Agent::version()]]>
-	</content>
-	<tabTrigger>fage</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => Returns the browser version.</description> -->
-</snippet>

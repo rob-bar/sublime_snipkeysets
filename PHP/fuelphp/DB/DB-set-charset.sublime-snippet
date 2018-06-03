@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[DB::set_charset(${1:charset}, ${2:db})]]>
-	</content>
-	<tabTrigger>fddb</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The set_charset method sets the connection character set. This is called automatically by [static::connect].</description> -->
-</snippet>

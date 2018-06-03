@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[Form::select(${1:field}, ${2:values}, ${3:options}, ${4:attributes})]]>
-	</content>
-	<tabTrigger>fform</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => Creates an html select element. It can be set using the fieldname, its selected value(s), its options and tag attributes or all in one attribute for the first argument.
-</description> -->
-</snippet>

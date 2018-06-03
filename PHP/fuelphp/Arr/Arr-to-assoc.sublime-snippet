@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[
-Arr::to_assoc(${1:arr})]]>
-	</content>
-	<tabTrigger>farr</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The to_assoc method turns a non-associative array into an associative array if it has an even number of segments.</description> -->
-</snippet>

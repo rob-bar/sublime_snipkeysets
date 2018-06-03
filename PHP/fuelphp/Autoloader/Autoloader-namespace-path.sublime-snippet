@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[
-Autoloader::namespace_path(${1:namespace})]]>
-	</content>
-	<tabTrigger>fauto</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The namespace_path method retrieves the path to a namespace.</description> -->
-</snippet>

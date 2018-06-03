@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[Cookie::set(${1:name}, ${2:value}, ${3:expiration}, ${4:path}, ${5:domain}, ${6:secure}, ${7:httponly})]]>
-	</content>
-	<tabTrigger>fcoo</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The set method allows you to create a cookie.</description> -->
-</snippet>

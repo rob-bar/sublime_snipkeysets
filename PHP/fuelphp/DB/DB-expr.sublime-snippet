@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[DB::expr(${1:expression})]]>
-	</content>
-	<tabTrigger>fddb</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The expr method returns a new Database_Expression object.</description> -->
-</snippet>

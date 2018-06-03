@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[->select_array(${1:columns})]]>
-	</content>
-	<tabTrigger>->sel</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The select_array method appends columns to select.</description> -->
-</snippet>

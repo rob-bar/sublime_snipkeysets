@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[->where_close()]]>
-	</content>
-	<tabTrigger>->whe</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The where_close method is an alias for and_where_close.</description> -->
-</snippet>

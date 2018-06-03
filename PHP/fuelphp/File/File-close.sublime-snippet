@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[File::close_file(${1:resource}, ${2:area})]]>
-	</content>
-	<tabTrigger>ffil</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => Closes a file and unlocks it.</description> -->
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[Debug::backtrace()]]>
-	</content>
-	<tabTrigger>fdeb</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The backtrace method shows the file and line the method is called from and a list of all previous.</description> -->
-</snippet>

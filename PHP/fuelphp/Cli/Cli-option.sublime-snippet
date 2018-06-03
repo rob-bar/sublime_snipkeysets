@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[
-\Cli::option(${1:name}, ${2:default})]]>
-	</content>
-	<tabTrigger>fcli</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The option accepts an option from the initial command.</description> -->
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[DB::start_transaction(${1:db})]]>
-	</content>
-	<tabTrigger>fddb</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The start_transaction method begins a transaction on an instance.</description> -->
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[get_timestamp()]]>
-	</content>
-	<tabTrigger>fdat</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The get_timestamp method returns the Date object's timestamp </description> -->
-</snippet>

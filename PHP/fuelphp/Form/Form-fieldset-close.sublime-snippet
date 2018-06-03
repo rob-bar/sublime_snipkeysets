@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[Form::fieldset_close()]]>
-	</content>
-	<tabTrigger>fform</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => Create a fieldset close tag.
-</description> -->
-</snippet>

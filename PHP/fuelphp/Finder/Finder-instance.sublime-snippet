@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[Finder::instance()]]>
-	</content>
-	<tabTrigger>ffin</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The instance method returns the singleton object of the Finder. This instance is also used by the FuelPHP core classes to find files, and is instantiated when first called with the APPPATH and COREPATH as default search paths. </description> -->
-</snippet>

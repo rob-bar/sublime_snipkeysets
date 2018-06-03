@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[File::get_permissions(${1:path}, ${2:area})]]>
-	</content>
-	<tabTrigger>ffil</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => Retrieves the octal permissions for a file or directory.</description> -->
-</snippet>

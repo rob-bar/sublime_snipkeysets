@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[
-Agent::is_mobiledevice()]]>
-	</content>
-	<tabTrigger>fage</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => Checks if the browser used is running on a mobile device.</description> -->
-</snippet>

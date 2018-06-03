@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[Form::button(${1:field}, ${2:value}, ${3:attributes})]]>
-	</content>
-	<tabTrigger>fform</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet =>  Creates an html button element. It can be set using the fieldname, its value and tag attributes or all in one array as the first argument.
-</description> -->
-</snippet>

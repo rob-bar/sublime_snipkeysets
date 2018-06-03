@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[File::get_size(${1:path}, ${2:area})]]>
-	</content>
-	<tabTrigger>ffil</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => Retrieves size in bytes for a file.</description> -->
-</snippet>

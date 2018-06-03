@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[->where(${1:column}, ${2:op}, ${3:value})]]>
-	</content>
-	<tabTrigger>->whe</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The where method is an alias for and_where.</description> -->
-</snippet>

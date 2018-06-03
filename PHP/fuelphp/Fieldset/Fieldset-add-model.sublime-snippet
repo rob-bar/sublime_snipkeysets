@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[add_model(${1:class}, ${2:instance}, ${3:method})]]>
-	</content>
-	<tabTrigger>ffie</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Add a model's fields. The model must have a method set_form_fields() that takes this Fieldset instance and adds fields to it.
-Orm\Model have support this build in.</description> -->
-</snippet>

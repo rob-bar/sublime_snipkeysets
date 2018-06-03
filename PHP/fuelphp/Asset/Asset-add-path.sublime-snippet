@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[
-Asset::add_path(${1:path}, ${2:type})]]>
-	</content>
-	<tabTrigger>fass</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The add_path method adds the given path to the front of the global assets search path array. If a $type is specified, it will add the path to the front of the search folder array for the given type. </description> -->
-</snippet>

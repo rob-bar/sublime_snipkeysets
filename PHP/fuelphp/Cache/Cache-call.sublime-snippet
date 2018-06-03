@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[
-Cache::call(${1:identifier}, ${2:callback}, ${3:args}, ${4:expiration}, ${5:dependencies})]]>
-	</content>
-	<tabTrigger>fcac</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => Cache the result of any callable function or method.</description> -->
-</snippet>

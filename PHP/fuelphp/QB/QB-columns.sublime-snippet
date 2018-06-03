@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[->columns(${1:columns})]]>
-	</content>
-	<tabTrigger>->col</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The columns method sets/changes the columns to insert.</description> -->
-</snippet>

@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[
-Arr::is_assoc(${1:arr})]]>
-	</content>
-	<tabTrigger>farr</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The is_assoc method checks if the array passed is an associative array or not.</description> -->
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[show_errors(${1:config})]]>
-	</content>
-	<tabTrigger>ffie</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Alias for $this->validation()->show_errors(). Returns all errors in a list or with set markup from the $config parameter. See Validation.</description> -->
-</snippet>

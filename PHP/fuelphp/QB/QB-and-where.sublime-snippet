@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[->and_where(${1:column}, ${2:op}, ${3:value})]]>
-	</content>
-	<tabTrigger>->and</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The and_where method appends a WHERE statement.</description> -->
-</snippet>

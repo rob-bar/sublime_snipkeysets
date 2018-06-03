@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[->on(${1:c1}, ${2:op}, ${3:c2})]]>
-	</content>
-	<tabTrigger>->on</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The on method adds "ON ..." conditions for the last created JOIN statement.</description> -->
-</snippet>

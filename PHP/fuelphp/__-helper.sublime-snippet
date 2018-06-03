@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[<?= __($1); ?>]]>
-	</content>
-	<tabTrigger>__</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => To generate a new base controller from scratch.</description> -->
-</snippet>

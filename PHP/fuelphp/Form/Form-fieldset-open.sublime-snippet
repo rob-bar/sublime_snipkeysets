@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[Form::fieldset_open(${1:attributes}, ${2:legend})]]>
-	</content>
-	<tabTrigger>fform</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => Create a fieldset open tag.
-</description> -->
-</snippet>

@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[
-\Cli::prompt(${1:question}, ${2:options})]]>
-	</content>
-	<tabTrigger>fcli</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The read method prompts the user for input.</description> -->
-</snippet>

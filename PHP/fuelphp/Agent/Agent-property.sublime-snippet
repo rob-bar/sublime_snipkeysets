@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[
-Agent::property(${1:property})]]>
-	</content>
-	<tabTrigger>fage</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => Return a specific browser property. See properties() for the list of supported properties.</description> -->
-</snippet>

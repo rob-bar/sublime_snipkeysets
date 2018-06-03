@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[File::get_time(${1:path}, ${2:type}, ${3:area})]]>
-	</content>
-	<tabTrigger>ffil</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => Retrieves the created or modified time of a file or directory.</description> -->
-</snippet>

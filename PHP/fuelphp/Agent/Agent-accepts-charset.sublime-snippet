@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[
-Agent::accepts_charset(${1:charset})]]>
-	</content>
-	<tabTrigger>fage</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => Check if the current browser accepts a specific character set.</description> -->
-</snippet>

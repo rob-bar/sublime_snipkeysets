@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[set_config(${1:config}, ${2:value})]]>
-	</content>
-	<tabTrigger>ffie</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Sets a config value on the fieldset.</description> -->
-</snippet>

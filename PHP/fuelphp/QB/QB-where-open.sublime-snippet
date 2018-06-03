@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[->where_open()]]>
-	</content>
-	<tabTrigger>->whe</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The where_open method is an alias for and_where_open.</description> -->
-</snippet>

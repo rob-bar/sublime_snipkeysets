@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[
-Arr::average(${1:array})]]>
-	</content>
-	<tabTrigger>farr</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The average method takes all values of an array and returns the average value.</description> -->
-</snippet>

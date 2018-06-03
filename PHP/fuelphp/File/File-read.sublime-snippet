@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[File::read(${1:path}, ${2:as_string}, ${3:area})]]>
-	</content>
-	<tabTrigger>ffil</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => Reads a file and returns it ($as_string == true) or adds it to the output ($as_string == false).</description> -->
-</snippet>

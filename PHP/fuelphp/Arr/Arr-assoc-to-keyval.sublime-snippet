@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[
-Arr::assoc_to_keyval(${1:assoc}, ${2:key_field}, ${3:val_field})]]>
-	</content>
-	<tabTrigger>farr</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The assoc_to_keyval method turns a multi-dimensional array into a key=>val array.</description> -->
-</snippet>

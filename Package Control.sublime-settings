@@ -2,13 +2,14 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Backbone.js",
+		"zz File Icons"
 	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
 		"AlignTab",
 		"Autoprefixer",
-		"Backbone.js",
 		"Better CoffeeScript",
 		"BracketHighlighter",
 		"Colorsublime",
@@ -57,6 +58,7 @@
 		"Theme - Piatto",
 		"Theme - Spacegray",
 		"TypeScript",
-		"zz File Icons"
+		"Backbone",
+		"A File Icon"
 	]
 }

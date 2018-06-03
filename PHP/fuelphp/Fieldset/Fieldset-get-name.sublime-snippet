@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[get_name()]]>
-	</content>
-	<tabTrigger>ffie</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Get the configuration array or one or more config values by key.</description> -->
-</snippet>

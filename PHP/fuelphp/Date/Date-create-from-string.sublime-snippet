@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[Date::create_from_string(${1:input}, ${2:pattern_key})]]>
-	</content>
-	<tabTrigger>fdat</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The create_from_string creates a Date object from a named date string format or a pattern.</description> -->
-</snippet>

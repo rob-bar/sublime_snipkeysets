@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[->as_assoc()]]>
-	</content>
-	<tabTrigger>->as</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => Getting results as assoc array</description> -->
-</snippet>

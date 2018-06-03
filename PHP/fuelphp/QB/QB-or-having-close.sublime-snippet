@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[->or_having_close()]]>
-	</content>
-	<tabTrigger>->or</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The or_having_close method closes an SQL closure.</description> -->
-</snippet>

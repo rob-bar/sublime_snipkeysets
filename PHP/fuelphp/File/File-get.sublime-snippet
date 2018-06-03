@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[File::get(${1:path}, ${2:config}, ${3:area})]]>
-	</content>
-	<tabTrigger>ffil</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => Fetches a file handler for the given file.</description> -->
-</snippet>

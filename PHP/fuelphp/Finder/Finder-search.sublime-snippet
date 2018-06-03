@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[Finder::search(${1:dir}, ${2:file}, ${3:ext}, ${4:multiple}, ${5:cache})]]>
-	</content>
-	<tabTrigger>ffin</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The search method is a static alias for locate() on the default finder instance.</description> -->
-</snippet>

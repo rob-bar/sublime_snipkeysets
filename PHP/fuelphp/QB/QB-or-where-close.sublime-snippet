@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[->or_where_close()]]>
-	</content>
-	<tabTrigger>->or</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The or_where_close method closes an SQL closure and appends it using OR.</description> -->
-</snippet>

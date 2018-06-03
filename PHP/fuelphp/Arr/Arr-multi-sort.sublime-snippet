@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[
-Arr::multisort(${1:array}, ${2:conditions}, ${3:ignore_case})]]>
-	</content>
-	<tabTrigger>farr</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The sort method sorts a multi-dimensional array by multiple values.</description> -->
-</snippet>

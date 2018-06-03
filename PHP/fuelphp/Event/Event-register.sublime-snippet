@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[Event::register(${1:event}, ${2:callback})]]>
-	</content>
-	<tabTrigger>feve</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The register method allows files to register an object that will be run when the trigger method is called.</description> -->
-</snippet>

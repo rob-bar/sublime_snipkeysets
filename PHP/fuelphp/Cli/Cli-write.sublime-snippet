@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[
-\Cli::write(${1:text}, ${2:foreground}, ${3:background})]]>
-	</content>
-	<tabTrigger>fcli</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The write method will write a line of text to the command line.</description> -->
-</snippet>

@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[Format::forge(${1:data})->to_xml(${2:data}, ${3:structure}, ${4:basenode})]]>
-	</content>
-	<tabTrigger>ffor</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet =>  The to_xml method returns the given data as an XML string. Do not call this directly, use the forge method as described in the example.
-</description> -->
-</snippet>

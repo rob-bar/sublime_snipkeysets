@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[Finder::add_path(${1:paths}, ${2:pos})]]>
-	</content>
-	<tabTrigger>ffin</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The add_path method adds a new search path to the Finder instance, at the given position. </description> -->
-</snippet>

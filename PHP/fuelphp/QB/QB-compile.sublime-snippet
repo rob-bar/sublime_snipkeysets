@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[->compile(${1:dbconnection})]]>
-	</content>
-	<tabTrigger>->com</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The limit method returns the insert SQL query as a string.</description> -->
-</snippet>

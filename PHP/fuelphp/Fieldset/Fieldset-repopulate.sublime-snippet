@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[repopulate()]]>
-	</content>
-	<tabTrigger>ffie</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Set all field values to the input send by a form submission (uses the form method attribute to decide wether to check POST or GET).</description> -->
-</snippet>

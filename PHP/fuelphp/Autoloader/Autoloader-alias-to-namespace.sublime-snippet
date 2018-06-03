@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[
-Autoloader::alias_to_namespace(${1:class}, ${2:namespace})]]>
-	</content>
-	<tabTrigger>fauto</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The alias_to_namespace method aliases a class to a namespace, the root by default.</description> -->
-</snippet>

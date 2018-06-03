@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[->having(${1:column}, ${2:op}, ${3:value})]]>
-	</content>
-	<tabTrigger>->hav</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The having method is an alias for and_having.</description> -->
-</snippet>

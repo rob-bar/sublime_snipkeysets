@@ -1,8 +1,0 @@
-<snippet>
-	<content>
-	<![CDATA[->limit(${1:number})]]>
-	</content>
-	<tabTrigger>->lim</tabTrigger>
-	<!-- <scope></scope> -->
-	<!-- <description>Fuelphp Snippet => The limit method limits the number of rows selected/affected.</description> -->
-</snippet>
