@@ -2,19 +2,19 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Backbone.js",
-		"zz File Icons"
 	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
 		"AlignTab",
 		"Autoprefixer",
+		"Backbone",
 		"Better CoffeeScript",
 		"BracketHighlighter",
 		"Colorsublime",
 		"DashDoc",
 		"DocBlockr",
+		"EditorConfig",
 		"Emmet",
 		"FileDiffs",
 		"Find++",
@@ -29,26 +29,30 @@
 		"IcedCoffeeScript",
 		"Insert Nums",
 		"Jade",
+		"JsPrettier",
 		"LESS",
 		"LoremIpsum",
 		"Material Theme",
 		"Material Theme - Appbar",
 		"Minifier",
 		"Nettuts+ Fetch",
+		"Nunjucks Syntax",
 		"Package Control",
 		"PackageResourceViewer",
 		"PHP-Twig",
 		"Predawn",
 		"Pretty JSON",
+		"Pug",
 		"Sass",
 		"Search Stack Overflow",
 		"SideBarEnhancements",
 		"Smarty",
+		"SortBy",
 		"StringEncode",
 		"SublimeLinter",
 		"SublimeLinter-coffee",
-		"SublimeLinter-contrib-scss-lint",
-		"SublimeLinter-jshint",
+		"SublimeLinter-contrib-sass-lint",
+		"SublimeLinter-eslint",
 		"SublimeLinter-json",
 		"SublimeXiki",
 		"Theme - Afterglow",
@@ -58,7 +62,6 @@
 		"Theme - Piatto",
 		"Theme - Spacegray",
 		"TypeScript",
-		"Backbone",
-		"A File Icon"
+		"Vue Syntax Highlight"
 	]
 }
