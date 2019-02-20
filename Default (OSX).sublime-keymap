@@ -99,6 +99,10 @@
 	{ "keys": ["super+;", "super+m"], "command": "advanced_new_file_move"},
 	{ "keys": ["super+;", "super+r"], "command": "advanced_new_file_delete"},
 	{ "keys": ["super+;", "super+r", "super+c"], "command": "advanced_new_file_delete", "args": {"current": true}},
-	{ "keys": ["super+o", "super+f"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"}}
-
+	{ "keys": ["super+o", "super+f"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"}},
+	{ "keys": ["super+shift+e"], "command": "slurp_find_string" },
+	{ "keys": ["super+e"], "command": "noop" },
+	{ "keys": ["super+e"], "args": {"action": "expand_abbreviation"}, "command": "run_emmet_action", "context": [{"key": "emmet_action_enabled.expand_abbreviation"}]},
+	{ "keys": ["super+ctrl+shift+a"], "command": "alignment" },
+	{ "keys": ["super+alt+f"], "command": "js_prettier" }
 ]

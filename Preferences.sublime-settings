@@ -33,6 +33,7 @@
 	"ignored_packages":
 	[
 		"Backbone.js",
+		"SublimeLinter-eslint",
 		"Vintage",
 		"zz File Icons"
 	],
