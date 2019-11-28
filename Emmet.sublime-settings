@@ -5,5 +5,8 @@
   "preferences": {
     // "scss.valueSeparator": ": ",
     "sass.propertyEnd": ";"
-  }
+  },
+
+  "css_completions_scope": "source.js - meta.selector.js - meta.property-value.js, source.css - meta.selector.css - meta.property-value.css, source.scss - meta.selector.scss - meta.property-value.scss, source.less - meta.selector.css - meta.property-value.css"
+
 }
